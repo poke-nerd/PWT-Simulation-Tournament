@@ -2,6 +2,8 @@
 
 Built upon the foundation laid by [CRZShadows](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator), this project expands and personalizes the tournament simulation concept with added parsing tools, and analytics.
 
+This is my first project so please understand taht if yall see something that doesn't make sense.
+
 This project extends [Pokémon Showdown](https://github.com/smogon/pokemon-showdown) with custom AI, ranking models, and powerful statistical analysis tools. It is designed to run, parse, and evaluate tens of thousands of battles programmatically.
 
 ---
@@ -46,6 +48,7 @@ node build
 3. **Run simulations (multithreaded):**
    ```bash
    python Data/runSimulations.py
+	(or yoiu can run auto_rerun_wrapper.py to run en masse)
    ```
 4. **Handle errors (optional):**
    Use `get_battles_to_rerun.py`, `findErrors.py`, and `removeErrors.py`
@@ -55,7 +58,7 @@ node build
    python Data/parseOutput_CSV.py       # CSV matrix
    python Data/ranking_elo.py           # Elo ranking
    python Data/ranking_bt.py            # Bradley-Terry
-   ```
+   ```(If you want all these ust use auto_parser.py)
 6. **Visualize or animate results** with:
    ```bash
    python trainer_card_mkr.py
@@ -83,10 +86,6 @@ All scripts below are located in the `Data/` directory unless noted otherwise:
 ---
 
 ## Modified Showdown Behavior
-
-### Core AI File:
-- `pokemon-showdown/sim/examples/Simulation-test-1.ts`
-  - Extends `random-player-ai.ts` to implement smarter decision logic
 
 ### Enhancements in Simulation Layer:
 - `sim/pokemon.ts` → adds info like boost tables, trap status, species, and HP
@@ -122,7 +121,8 @@ PWT-Simulation-Tournament/
 
 
 ## Future Plans
-- Make Youtube Video expaming how to run one yourelf
+- Make Youtube Video explaining how to run one yourelf
 - Animated replays w/ trainer cards and battle stats
-- Support for Gen 9 + advanced AI archetypes
+- Support for Multiple Generations
+- Eventually battle bot
 

@@ -1,56 +1,134 @@
-# Pokémon Simulator Environment
+# Ultimate Pokémon World Tournament Simulator
 
-Here we have an environment for running large amounts of Pokémon simulations in the command line. The Pokémon-showdown directory contains a modified version of https://github.com/smogon/pokemon-showdown, whose modifications are detailed below. In the Data directory, you can find various python files which can be used to build a set of battles from predefined text files of builds written in Pokémon Showdown output format, run large sets of multithreaded simulations, and parse and analyse the results of battles, producing a matrix of results. Additionally, Predefined teams for each trainer we used can be found in Data/Inputs. These are formatted inside of GymLeaderTeams.txt by referencing the species name and the line number of each pokemon build from GymLeaderPokemon.txt, for each member of the team.
+Built upon the foundation laid by [CRZShadow](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator), this project expands and refines the tournament simulation concept with enhanced tools, AI, and analytics.
+
+Welcome to the open-source AI tournament engine for simulating large-scale Pokémon tournaments between custom trainer teams across all generations. This project extends [Pokémon Showdown](https://github.com/smogon/pokemon-showdown) with custom AI, ranking models, and powerful statistical analysis tools. It is designed to run, parse, and evaluate tens of thousands of battles programmatically.
+
+---
+
+## 📊 Core Features
+- ⚔️ Custom AI battle logic powered by Showdown
+- 🔁 Multithreaded battle simulation for large datasets
+- 📈 Ranking models: Elo + Bradley-Terry
+- 🎴 Animated trainer card generator
+- 📊 Heatmaps and statistical summaries (CSV + HTML)
+- 🧪 Battle rerun + error analysis tooling
+
+---
+
+## 🚀 Quick Start
+
+### 1. Clone and install
+```bash
+git clone --recursive https://github.com/poke-nerd/PWT-Simulation-Tournament.git
+cd PWT-Simulation-Tournament
+conda env create -f environment.yml
+conda activate pwt-sim
+```
+
+### 2. Build Pokémon Showdown
+```bash
+cd pokemon-showdown
+npm install
+node build
+```
+
+---
+
+## 🧠 How It Works
+
+### Simulation Pipeline
+1. **Prepare trainer teams:** in `Data/Inputs/GymLeaderTeams.txt` + `GymLeaderPokemon.txt`
+2. **Generate matchups:**
+   ```bash
+   python Data/BuildBattles.py
+   ```
+3. **Run simulations (multithreaded):**
+   ```bash
+   python Data/runSimulations.py
+   ```
+4. **Handle errors (optional):**
+   Use `get_battles_to_rerun.py`, `findErrors.py`, and `removeErrors.py`
+5. **Parse + analyze results:**
+   ```bash
+   python Data/parseOutput.py           # heatmap (PNG)
+   python Data/parseOutput_CSV.py       # CSV matrix
+   python Data/ranking_elo.py           # Elo ranking
+   python Data/ranking_bt.py            # Bradley-Terry
+   ```
+6. **Visualize or animate results** with:
+   ```bash
+   python trainer_card_mkr.py
+   python html_parser.py
+   ```
+
+---
+
+## 🧰 Key Utility Scripts
+All scripts below are located in the `Data/` directory unless noted otherwise:
+
+| Script/File                  | Description |
+|-----------------------------|-------------|
+| `BuildTour.py`              | Builds randomized tournament brackets |
+| `auto_parser_csv.py`        | Automatically aggregates results into CSV format |
+| `auto_rerun_wrapper.py`     | Reruns failed battles automatically |
+| `check_count.py`            | Verifies completeness of output logs |
+| `count_cheren_battles.py`   | Debug tool for per-trainer analysis |
+| `graph.py`                  | Generates trainer winrate heatmaps |
+| `trainer_winrate_heatmap.html` | HTML version of winrate heatmap |
+| `master_battle_matrix.csv`  | Master winrate summary |
+| `master_trainer_stats.csv`  | Aggregated trainer statistics |
 
 
+---
 
-## Requirements
-* Python (tested on version 3.10.12, buy any python 3 version SHOULD suffice)
-* Node.js (tested on node version 21.1.0 / npm version 8.10.2, but any SHOULD suffice)
-* The following python libraries:
-    * json
-    * itertools
-    * re
-    * collections
-    * matplotlib
-    * numpy
-    * PIL
-    * csv
-    * subprocess
-    * threading
-    * time
-    * timeit
+## 🧬 Modified Showdown Behavior
 
+### Core AI File:
+- `pokemon-showdown/sim/examples/Simulation-test-1.ts`
+  - Extends `random-player-ai.ts` to implement smarter decision logic
 
+### Enhancements in Simulation Layer:
+- `sim/pokemon.ts` → adds info like boost tables, trap status, species, and HP
+- `sim/side.ts` → includes side condition states (e.g., Tailwind)
+- `sim/dex-moves.ts` → improved multi-hit move handling
 
-## Running Simulations Yourself
-See [manual.md](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator/blob/main/manual.md) for a more detailed guide if required.
+---
 
-TLDR:
-Since there is a submodule in the repo, make sure to clone using `git clone --recursive https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator`. If you wish to run a set of simulations, everything you need is located in the 'Data' directory. You can create or use a predefined input file in 'Inputs' subdirectory, then run BuildBattles.py to generate a json file of matchups to feed to the simulator. If you desire you can modify BuildBattles.py to generate matchups in whatever way you like. Make sure you build pokemon showdown by navigating to the "pokemon-showdown" directory and running "node build", then "npm install pokemon-showdown" before trying to run any simulations. From there just just have to run runSimulations.py. Before running this, you should scroll down to line 61 of runSimulations.py and adjust the number of threads to use. Running a ryzen 9 7950X, 50 threads seemed to be the sweet spot for me, but I would recommend starting small and upping it to what your CPU can handle. Battles with errors can be found and rerun using get_battles_to_rerun.py, findErrors.py and removeErrors.py, if required. Analysis can be performed using parseOutput.py (for a png matrix output) and parseOutput_CSV.py (for a csv matrix output).
+## 📂 Repo Overview
+```
+PWT-Simulation-Tournament/
+├── Data/                       # All tournament logic and data
+│   ├── Inputs/                # Trainer/Pokémon team definitions
+│   ├── Output/                # Replays, stats, trainer cards
+│   ├── UsefulDatasets/       # CSVs and winrate matrices
+│   ├── Tour100/, WorkerFiles/  # Large simulation batches
+│   ├── BuildBattles.py, runSimulations.py, ranking_elo.py, etc.
+│   └── trainer_winrate_heatmap.html
+├── pokemon-showdown/          # Forked + modified Showdown engine
+├── trainer_card_mkr.py        # Generates trainer cards
+├── html_parser.py             # Converts logs to replay format
+├── environment.yml            # Conda environment
+└── manual.md                  # Additional usage notes
+```
 
+---
 
+## 📚 Credits
+- Forked from [CRZShadow's Simulator](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator)
+- Built on top of [Pokémon Showdown](https://github.com/smogon/pokemon-showdown)
+- Tournament AI + analytics system by [poke-nerd](https://github.com/poke-nerd)
 
-## Modifications to Pokémon Showdown
+---
 
-* The code for our heuristics based bot can be found in "/pokemon-showdown/sim/examples/Simulation-test-1.ts". This is the file to edit if you with to modify the AI. Note that this AI extends "/pokemon-showdown/sim/tools/random-player-ai.ts". All calls to "chooseMove()," "chooseSwitch()," "choosePokemon()," and "chooseTeamPreview()" have also been modified in this file to pass in requests so that the bot can use that data when selecting what to do.
+## 🧵 Community
+- YouTube: [@smithplayspokemon](https://www.youtube.com/@smithplayspokemon)
+- Discord: https://discord.gg/Wupx8tHRVS
 
-* In the file "/pokemon-showdown/sim/pokemon.ts," the "getSwitchRequestData()" function has been modified to include additional information for each Pokémon in each request message sent through the battle stream. Specifically, the modifications added information on the Pokémon's current boost table, its position on the battlefield, its maximum possible HP, any status effects applied to it, the species name, and whether it is trapped.
+---
 
-* In the file "/pokemon-showdown/sim/side.ts," the "getRequestData()" function has been modified to include information on any current side conditions on the battlefield, such as tailwind or trick room. Additionally, information on the foe has been added.
+## 🔮 Future Plans
+- Export to HuggingFace or Kaggle
+- Animated replays w/ trainer cards and battle stats
+- Support for Gen 9 + advanced AI archetypes
 
-* In the file "/pokemon-showdown/sim/dex-moves.ts," The DataMove class' constructor has been modified to allow for checking how many times a multi-hit move hits.
-
-
-
-## Check Out My Other Projects
-* Pokemon Crystal Legacy: https://www.youtube.com/watch?v=oeJBVY3z_uE&t=55s
-* Pokemon Crystal Legacy Github: https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy
-
-
-
-## Discussion and Community
-* YouTube: https://www.youtube.com/@smithplayspokemon
-* Discord: https://discord.gg/Wupx8tHRVS
-* Twitter: https://twitter.com/TheSmithPlays
-* Instagram: https://www.instagram.com/thesmithplays/

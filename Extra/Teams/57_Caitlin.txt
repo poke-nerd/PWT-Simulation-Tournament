@@ -1,0 +1,55 @@
+57_Caitlin
+Musharna @ Zoom Lens
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Charge Beam
+- Dream Eater
+- Hypnosis
+- Reflect
+
+Alakazam @ Expert Belt
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Focus Blast
+- Shadow Ball
+- Charge Beam
+
+Gallade (M) @ Muscle Band
+Ability: Steadfast
+EVs: 1 HP
+Adamant Nature
+- Close Combat
+- Leaf Blade
+- Psycho Cut
+- Night Slash
+
+Reuniclus @ Leftovers
+Ability: Magic Guard
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Thunder
+- Recover
+- Focus Blast
+
+Gothitelle @ Wise Glasses
+Ability: Frisk
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Shadow Ball
+- Flatter
+- Focus Blast
+
+Metagross @ Life Orb
+Ability: Clear Body
+EVs: 1 HP
+Adamant Nature
+- Zen Headbutt
+- Bullet Punch
+- Earthquake
+- Hammer Arm
+

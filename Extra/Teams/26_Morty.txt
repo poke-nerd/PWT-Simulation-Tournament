@@ -1,0 +1,55 @@
+26_Morty
+Gengar @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Focus Blast
+- Giga Drain
+- Thunderbolt
+
+Mismagius @ Sitrus Berry
+Ability: Levitate
+EVs: 1 HP
+Serious Nature
+- Perish Song
+- Mean Look
+- Will-o-wisp
+- Confuse Ray
+
+Banette @ Ghost Gem
+Ability: Insomnia
+EVs: 1 HP
+Adamant Nature
+- Shadow Claw
+- Sucker Punch
+- Destiny Bond
+- Gunk Shot
+
+Dusknoir @ Leftovers
+Ability: Pressure
+EVs: 1 HP
+Adamant Nature
+- Shadow Sneak
+- Will-o-wisp
+- Protect
+- Fire Punch
+
+Chandelure @ Life Orb
+Ability: Flame Body
+EVs: 1 HP
+Modest Nature
+- Overheat
+- Shadow Ball
+- Energy Ball
+- Psychic
+
+Froslass @ Focus Sash
+Ability: Snow Cloak
+EVs: 1 HP
+Modest Nature
+- Ice Beam
+- Shadow Ball
+- Thunder Wave
+- Destiny Bond
+

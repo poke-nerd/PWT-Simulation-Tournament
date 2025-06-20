@@ -1,0 +1,55 @@
+63_N_Spring
+Politoed @ Life Orb
+Ability: Drizzle
+EVs: 1 HP
+Modest Nature
+- Hydro Pump
+- Focus Blast
+- Psychic
+- Hypnosis
+
+Lanturn
+Ability: Volt Absorb
+EVs: 1 HP
+Modest Nature
+- Thunder
+- Signal Beam
+- Hydro Pump
+- Stockpile
+
+Tentacruel @ Damp Rock
+Ability: Clear Body
+EVs: 1 HP
+Modest Nature
+- Rain Dance
+- Giga Drain
+- Scald
+- Barrier
+
+Omastar @ Damp Rock
+Ability: Swift Swim
+EVs: 1 HP
+Modest Nature
+- Rain Dance
+- Hydro Pump
+- Ice Beam
+- Earth Power
+
+Kabutops
+Ability: Swift Swim
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Aqua Jet
+- X-Scissor
+- Low Kick
+
+Starmie
+Ability: Natural Cure
+EVs: 1 HP
+Modest Nature
+- Hydro Pump
+- Thunder
+- Psychic
+- Ice Beam
+

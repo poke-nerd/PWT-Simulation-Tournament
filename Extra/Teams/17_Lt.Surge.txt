@@ -1,0 +1,55 @@
+17_Lt.Surge
+Raichu @ Life Orb
+Ability: Static
+EVs: 1 HP
+Adamant Nature
+- Volt Tackle
+- Fake Out
+- Focus Punch
+- Thunder Wave
+
+Electrode @ Focus Sash
+Ability: Static
+EVs: 1 HP
+Modest Nature
+- Electro Ball
+- Signal Beam
+- Thunder Wave
+- Double Team
+
+Magnezone @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Discharge
+- Flash Cannon
+- Signal Beam
+- Magnet Rise
+
+Electivire @ Expert Belt
+Ability: Motor Drive
+EVs: 1 HP
+Adamant Nature
+- Wild Charge
+- Earthquake
+- Cross Chop
+- Ice Punch
+
+Jolteon @ Shuca Berry
+Ability: Volt Absorb
+EVs: 1 HP
+Adamant Nature
+- Quick Attack
+- Iron Tail
+- Double Team
+- Volt Switch
+
+Lanturn @ Wide Lens
+Ability: Volt Absorb
+EVs: 1 HP
+Modest Nature
+- Thunder
+- Hydro Pump
+- Blizzard
+- Signal Beam
+

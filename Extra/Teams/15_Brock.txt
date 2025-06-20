@@ -1,0 +1,55 @@
+15_Brock
+Onix @ Eviolite
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Earthquake
+- Iron Head
+- Sandstorm
+
+Golem @ Lum Berry
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Earthquake
+- Rock Polish
+- Sucker Punch
+
+Kabutops @ Focus Sash
+Ability: Battle Armor
+EVs: 1 HP
+Adamant Nature
+- Waterfall
+- Rock Slide
+- X-Scissor
+- Swords Dance
+
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Payback
+- Thunder Punch
+- Ice Punch
+
+Aerodactyl @ Choice Scarf
+Ability: Rock Head
+EVs: 1 HP
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Fire Fang
+- Ice Fang
+
+Rhyperior @ Expert Belt
+Ability: Lightning Rod
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Stone Edge
+- Megahorn
+- Avalanche
+

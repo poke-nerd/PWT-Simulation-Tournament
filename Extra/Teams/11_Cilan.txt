@@ -1,0 +1,55 @@
+11_Cilan
+Simisage @ Grass Gem
+Ability: Gluttony
+EVs: 1 HP
+Adamant Nature
+- Seed Bomb
+- Low Kick
+- Acrobatics
+- Crunch
+
+Ferrothorn @ Choice Band
+Ability: Iron Barbs
+EVs: 1 HP
+Adamant Nature
+- Power Whip
+- Gyro Ball
+- Bulldoze
+- Explosion
+
+Serperior @ Leftovers
+Ability: Overgrow
+EVs: 1 HP
+Adamant Nature
+- Leech Seed
+- Protect
+- Aerial Ace
+- Leaf Blade
+
+Jumpluff @ Focus Sash
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Leech Seed
+- Cotton Guard
+- Giga Drain
+- Sleep Powder
+
+Whimsicott @ Mental Herb
+Ability: Prankster
+EVs: 1 HP
+Modest Nature
+- Giga Drain
+- Substitute
+- Hurricane
+- Leech Seed
+
+Lilligant @ Miracle Seed
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Petal Dance
+- Quiver Dance
+- Sleep Powder
+- Dream Eater
+

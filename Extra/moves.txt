@@ -1,0 +1,1128 @@
+Return
+Crunch
+Ice Fang
+Reversal
+Shadow Ball
+Psychic
+Signal Beam
+Thunder
+Tail Slap
+Rock Blast
+Bullet Seed
+Aqua Tail
+Hammer Arm
+Power Whip
+Thunder
+Ice Punch
+Weather Ball
+Ice Beam
+Rain Dance
+Thunder
+Head Charge
+Megahorn
+Wild Charge
+Revenge
+Poison Jab
+Megahorn
+Earthquake
+Rock Slide
+Poison Jab
+Swords Dance
+Drain Punch
+Protect
+Psychic
+Thunderbolt
+Focus Blast
+Protect
+Cross Poison
+Zen Headbutt
+Tailwind
+Brave Bird
+Cross Poison
+Night Slash
+Ice Fang
+Protect
+Foul Play
+Spore
+Giga Drain
+Protect
+X-scissor
+Leaf Blade
+Aerial Ace
+Swords Dance
+Attack Order
+Defend Order
+Roost
+Toxic
+X-scissor
+Rock Blast
+Earthquake
+Shell Smash
+Megahorn
+Close Combat
+Shadow Claw
+Stone Edge
+Bug Buzz
+Focus Blast
+Giga Drain
+Double Team
+X-scissor
+Iron Head
+Stone Edge
+Guillotine
+Wild Charge
+Overheat
+Return
+Quick Attack
+Discharge
+Signal Beam
+Power Gem
+Focus Blast
+Wild Charge
+Fire Fang
+Ice Fang
+Quick Attack
+U-turn
+Wild Charge
+Acrobatics
+Charm
+Thunderpunch
+Fire Punch
+Dragon Claw
+Brick Break
+Discharge
+Earth Power
+Scald
+Foul Play
+Drill Run
+Rock Slide
+Submission
+Swords Dance
+Outrage
+Earth Power
+Fire Blast
+Stone Edge
+Earthquake
+Fire Fang
+Stone Edge
+Aqua Tail
+Earth Power
+Hydro Pump
+Focus Blast
+Grass Knot
+Earthquake
+Ice Shard
+Stone Edge
+Fissure
+Substitute
+Shadow Punch
+Earthquake
+Focus Punch
+Hurricane
+Scald
+Ice Beam
+Tailwind
+Sleep Powder
+Acrobatics
+Bullet Seed
+U-turn
+Shadow Ball
+Thunderbolt
+Psychic
+Icy Wind
+Dark Pulse
+Air Slash
+Nasty Plot
+Roost
+Acrobatics
+Stone Edge
+Earthquake
+Dragon Claw
+Brave Bird
+Superpower
+Rock Slide
+U-turn
+Outrage
+Earthquake
+Brick Break
+Dragon Dance
+Dragon Tail
+Fire Fang
+Glare
+Rest
+Dragon Pulse
+Dark Pulse
+Fire Blast
+Focus Blast
+Earth Power
+Draco Meteor
+Fire Blast
+U-turn
+Draco Meteor
+Roost
+Perish Song
+Cotton Guard
+Draco Meteor
+Hydro Pump
+Fire Blast
+Tailwind
+Hydro Pump
+Energy Ball
+Shadow Ball
+Psychic
+Waterfall
+Rock Slide
+Aqua Jet
+Shell Smash
+Scald
+Light Screen
+Reflect
+Thunderbolt
+Stone Edge
+Earthquake
+Waterfall
+Counter
+Ice Shard
+Rock Blast
+Icicle Spear
+Shell Smash
+Water Spout
+Fissure
+Blizzard
+Bounce
+Overheat
+Low Kick
+Acrobatics
+Crunch
+Overheat
+Stone Edge
+Earthquake
+Explosion
+Fire Blast
+Sucker Punch
+Focus Blast
+Sunny Day
+Flare Blitz
+Hammer Arm
+Stone Edge
+U-turn
+Overheat
+Dragon Pulse
+Solarbeam
+Extremespeed
+Flare Blitz
+Head Smash
+Hammer Arm
+Wild Charge
+Hydro Pump
+Low Kick
+Acrobatics
+Crunch
+Crunch
+Waterfall
+Brick Break
+Guillotine
+Razor Shell
+Megahorn
+Aqua Jet
+Revenge
+Aqua Jet
+Aqua Tail
+Superpower
+Giga Impact
+Psychic
+Blizzard
+Fire Blast
+Nasty Plot
+Hydro Pump
+Poison Jab
+Earth Power
+Rain Dance
+Seed Bomb
+Low Kick
+Acrobatics
+Crunch
+Power Whip
+Gyro Ball
+Bulldoze
+Explosion
+Leech Seed
+Protect
+Aerial Ace
+Leaf Blade
+Leech Seed
+Cotton Guard
+Giga Drain
+Sleep Powder
+Giga Drain
+Substitute
+Hurricane
+Leech Seed
+Petal Dance
+Quiver Dance
+Sleep Powder
+Dream Eater
+Super Fang
+Flail
+Confuse Ray
+Hypnosis
+Swift
+Focus Blast
+Grass Knot
+Thunderbolt
+Sky Attack
+Superpower
+U-turn
+Tailwind
+Return
+Horn Leech
+Megahorn
+Wild Charge
+Fake Out
+Ice Punch
+Hammer Arm
+Sucker Punch
+Flamethrower
+Ice Beam
+Surf
+Thunderbolt
+Blizzard
+Flash Cannon
+Sheer Cold
+Ice Shard
+Icicle Crash
+Focus Punch
+Substitute
+Swords Dance
+Blizzard
+Protect
+Weather Ball
+Hail
+Night Slash
+Ice Shard
+Fake Out
+Brick Break
+Aqua Jet
+Frost Breath
+Drill Run
+Fake Out
+Earthquake
+Aqua Tail
+Super Fang
+Avalanche
+Calm Mind
+Stored Power
+Moonlight
+Shadow Ball
+Blizzard
+Aqua Jet
+Hydro Pump
+Megahorn
+Scald
+Superpower
+Overheat
+Grass Knot
+Light Screen
+Glare
+Leaf Storm
+Reflect
+Return
+Wild Charge
+Crunch
+Ice Fang
+Outrage
+Earthquake
+Aqua Tail
+Guillotine
+Stone Edge
+Earthquake
+Iron Head
+Sandstorm
+Stone Edge
+Earthquake
+Rock Polish
+Sucker Punch
+Waterfall
+Rock Slide
+X-scissor
+Swords Dance
+Stone Edge
+Payback
+Thunderpunch
+Ice Punch
+Rock Slide
+Earthquake
+Fire Fang
+Ice Fang
+Earthquake
+Stone Edge
+Megahorn
+Avalanche
+Grass Knot
+Psychic
+Thunderbolt
+Ice Beam
+Thunderbolt
+Scald
+Ice Beam
+Toxic
+Recover
+Surf
+Shadow Ball
+Will-o-wisp
+Hydro Pump
+Blizzard
+Ice Shard
+Sheer Cold
+Yawn
+Waterfall
+Earthquake
+Rain Dance
+Hydro Pump
+Outrage
+Avalanche
+Iron Defense
+Volt Tackle
+Fake Out
+Focus Punch
+Thunder Wave
+Electro Ball
+Signal Beam
+Thunder Wave
+Double Team
+Discharge
+Flash Cannon
+Signal Beam
+Magnet Rise
+Wild Charge
+Earthquake
+Cross Chop
+Ice Punch
+Quick Attack
+Iron Tail
+Double Team
+Volt Switch
+Thunder
+Hydro Pump
+Blizzard
+Signal Beam
+Drain Punch
+Swords Dance
+Synthesis
+Sleep Powder
+Leaf Storm
+Power Whip
+Earthquake
+Outrage
+Stone Edge
+Recover
+Seed Bomb
+Curse
+Psychic
+Psyshock
+Leaf Storm
+Ancientpower
+Solarbeam
+Ancientpower
+Focus Blast
+Synthesis
+Blizzard
+Leech Seed
+Protect
+Sheer Cold
+Quiver Dance
+Sleep Powder
+Bug Buzz
+Psychic
+Thunderbolt
+Will-o-wisp
+Sludge Bomb
+Flamethrower
+Sludge Wave
+Ice Beam
+Earth Power
+Thunderbolt
+Brave Bird
+Hypnosis
+Toxic
+Protect
+Leaf Storm
+Sleep Powder
+Substitute
+Leech Seed
+Sludge Bomb
+Scald
+Ice Beam
+Rest
+Psychic
+Shadow Ball
+Focus Blast
+Charge Beam
+Psychic
+Shadow Ball
+Signal Beam
+Grass Knot
+Psychic
+Energy Ball
+Sleep Powder
+Dream Eater
+Scald
+Psychic
+Shadow Ball
+Focus Blast
+Psyshock
+Signal Beam
+Psychic
+Calm Mind
+Psychic
+Air Slash
+Ice Beam
+Light Screen
+Overheat
+Close Combat
+Extremespeed
+Bulldoze
+Fire Blast
+Energy Ball
+Psyshock
+Will-o-wisp
+Flamethrower
+Air Slash
+Focus Blast
+Dragon Pulse
+Fire Blast
+Psychic
+Thunderbolt
+Rock Slide
+Superpower
+Quick Attack
+Overheat
+Toxic
+Trick
+Overheat
+Thunderbolt
+Pain Split
+Earthquake
+Rock Blast
+Ice Punch
+Hammer Arm
+Earthquake
+Crunch
+Ice Fang
+Stone Edge
+Outrage
+Earthquake
+Rock Slide
+Brick Break
+Earthquake
+Superpower
+Fire Fang
+Grass Knot
+Earth Power
+Ice Beam
+Flamethrower
+Thunderbolt
+Acrobatics
+Earthquake
+Fire Fang
+Tailwind
+Return
+Swagger
+Double Team
+Air Slash
+Super Fang
+Taunt
+Acrobatics
+Confuse Ray
+Earthquake
+Ice Fang
+Rock Slide
+Protect
+Night Slash
+Brave Bird
+Heat Wave
+Icy Wind
+Calm Mind
+Psyshock
+Stored Power
+Roost
+Facade
+Protect
+Endeavor
+Aerial Ace
+Bullet Punch
+U-turn
+Swords Dance
+Acrobatics
+Power Split
+Stone Edge
+Earthquake
+Toxic
+Megahorn
+Stone Edge
+Close Combat
+Shadow Claw
+X-scissor
+Bulldoze
+Guillotine
+Protect
+Earthquake
+Stone Edge
+X-scissor
+Swords Dance
+Protect
+Bug Buzz
+Air Slash
+Giga Drain
+Return
+Zen Headbutt
+Brick Break
+Milk Drink
+Softboiled
+Flamethrower
+Grass Knot
+Toxic
+Return
+Earthquake
+Rock Slide
+Protect
+Fake Out
+Double Hit
+Low Sweep
+Ice Punch
+Facade
+Swords Dance
+Crunch
+Rock Slide
+Entrainment
+Return
+Low Kick
+Encore
+Shadow Ball
+Focus Blast
+Giga Drain
+Thunderbolt
+Perish Song
+Mean Look
+Will-o-wisp
+Confuse Ray
+Shadow Claw
+Sucker Punch
+Destiny Bond
+Gunk Shot
+Shadow Sneak
+Will-o-wisp
+Protect
+Fire Punch
+Overheat
+Shadow Ball
+Energy Ball
+Psychic
+Ice Beam
+Shadow Ball
+Thunder Wave
+Destiny Bond
+Waterfall
+Belly Drum
+Rock Slide
+Hypnosis
+Dynamicpunch
+Stone Edge
+Ice Punch
+Earthquake
+Mach Punch
+Feint
+Triple Kick
+Bullet Punch
+Drain Punch
+Thunderpunch
+Ice Punch
+Double Team
+Hi Jump Kick
+Fake Out
+Bulldoze
+Stone Edge
+Drain Punch
+Mach Punch
+Rock Slide
+Earthquake
+Gyro Ball
+Earthquake
+Stealth Rock
+Curse
+Thunderbolt
+Flash Cannon
+Mirror Coat
+Magnet Rise
+Earthquake
+Gyro Ball
+Toxic
+Explosion
+Curse
+Roost
+Aerial Ace
+Stealth Rock
+Meteor Mash
+Bullet Punch
+Earthquake
+Explosion
+Extremespeed
+Crunch
+Aura Sphere
+Stone Edge
+Earthquake
+Ice Shard
+Icicle Spear
+Endeavor
+Blizzard
+Psyshock
+Focus Blast
+Lovely Kiss
+Dive
+Sheer Cold
+Sleep Talk
+Rest
+Icicle Spear
+Shell Smash
+Explosion
+Rock Blast
+Ice Beam
+Surf
+Thunderbolt
+Rest
+Ice Punch
+Night Slash
+Low Kick
+Fake Out
+Draco Meteor
+Earthquake
+Extremespeed
+Outrage
+Dragon Dance
+Outrage
+Waterfall
+Rest
+Cotton Guard
+Toxic
+Double Team
+Fire Blast
+Draco Meteor
+Outrage
+Rock Slide
+Earthquake
+Revenge
+Sucker Punch
+Glare
+Dragon Claw
+Earthquake
+Dual Chop
+Fire Fang
+Swords Dance
+Power Gem
+Earth Power
+Pain Split
+Thunderbolt
+Rock Slide
+Rock Polish
+Earthquake
+X-scissor
+Toxic
+Giga Drain
+Amnesia
+Rock Slide
+Head Smash
+Iron Head
+Metal Burst
+Avalanche
+Waterfall
+Shell Smash
+Rock Slide
+Aqua Jet
+Focus Punch
+Protect
+Earthquake
+Fire Punch
+Bulk Up
+Rest
+Revenge
+Stone Edge
+Bulk Up
+Drain Punch
+Dragon Tail
+Amnesia
+Spore
+Focus Punch
+Seed Bomb
+Stone Edge
+Dynamicpunch
+Stone Edge
+Fire Punch
+Earthquake
+Hi Jump Kick
+Fake Out
+Aerial Ace
+Drain Punch
+Megahorn
+Close Combat
+Stone Edge
+Aerial Ace
+Thunderbolt
+Flamethrower
+Thunder Wave
+Double Team
+Thunderbolt
+Toxic
+Protect
+Flash Cannon
+Thunder
+Signal Beam
+Swagger
+Thunder Wave
+Thunder
+Hydro Pump
+Hex
+Will-o-wisp
+Fire Punch
+Thunderpunch
+Bulldoze
+Brick Break
+Thunder
+Focus Blast
+Grass Knot
+Swagger
+Overheat
+Earthquake
+Stone Edge
+Yawn
+Earth Power
+Fissure
+Will-o-wisp
+Flamethrower
+Flamethrower
+Flame Charge
+Shadow Ball
+Calm Mind
+Hi Jump Kick
+Earthquake
+Flame Charge
+Stone Edge
+Overheat
+Sucker Punch
+Flame Charge
+Will-o-wisp
+Fire Blast
+Thunderbolt
+Flame Charge
+Psychic
+Giga Impact
+Night Slash
+Earthquake
+Hammer Arm
+Return
+Acrobatics
+Fake Out
+Fire Punch
+Head Charge
+Stone Edge
+Megahorn
+Revenge
+Brave Bird
+Close Combat
+Quick Attack
+Final Gambit
+Hyper Voice
+Fire Blast
+Blizzard
+Focus Blast
+Horn Leech
+Return
+Swords Dance
+Rest
+Sky Attack
+Cotton Guard
+Dragon Dance
+Earthquake
+Psychic
+Air Slash
+Ancientpower
+Thunder Wave
+Dragon Dance
+Substitute
+Waterfall
+Ice Fang
+Whirlwind
+Spikes
+Steel Wing
+Aerial Ace
+Sunny Day
+Air Slash
+Solarbeam
+Attract
+Drill Peck
+Tailwind
+Sucker Punch
+Icy Wind
+Rock Slide
+Zen Headbutt
+Trick Room
+Earthquake
+Psychic
+Light Screen
+Shadow Ball
+Trick Room
+Gyro Ball
+Earthquake
+Zen Headbutt
+Trick Room
+Psychic
+Shadow Ball
+Focus Blast
+Trick Room
+Psycho Cut
+Night Slash
+Close Combat
+Ice Punch
+Trick Room
+Explosion
+Psychic
+Light Screen
+Grass Knot
+Cosmic Power
+Trick Room
+Signal Beam
+Pain Split
+Zen Headbutt
+U-turn
+Trick Room
+Iron Head
+Hypnosis
+Earthquake
+Trick Room
+Psychic
+Shadow Ball
+Calm Mind
+Trick Room
+Disable
+Psychic
+Will-o-wisp
+Thunderbolt
+Trick Room
+Earth Power
+Ice Beam
+Psyshock
+Hydro Pump
+Dragon Pulse
+Ice Beam
+Rain Dance
+Surf
+Toxic
+Super Fang
+Sheer Cold
+Crabhammer
+Night Slash
+Rain Dance
+Guillotine
+Earthquake
+Waterfall
+Spark
+Rest
+Rain Dance
+Rock Slide
+Waterfall
+Earthquake
+Hypnosis
+Scald
+Focus Blast
+Ice Beam
+Stone Edge
+Superpower
+Earthquake
+Avalanche
+Stealth Rock
+Earth Power
+Discharge
+Pain Split
+Stone Edge
+Earthquake
+Focus Blast
+Quick Attack
+Rock Slide
+X-scissor
+Solarbeam
+Shell Smash
+Stone Edge
+Earthquake
+Sucker Punch
+Explosion
+Head Smash
+Waterfall
+Rock Polish
+Yawn
+Petal Dance
+Shadow Ball
+Weather Ball
+Sludge Bomb
+Solarbeam
+Air Slash
+Synthesis
+Sunny Day
+Spore
+Drain Punch
+Mach Punch
+Stone Edge
+Power Whip
+Focus Blast
+Sludge Bomb
+Earthquake
+Leaf Blade
+X-scissor
+Quick Attack
+Swords Dance
+Wood Hammer
+Earthquake
+Outrage
+Stone Edge
+Shadow Ball
+Psychic
+Calm Mind
+Pain Split
+Acrobatics
+Will-o-wisp
+Explosion
+Sucker Punch
+Shadow Ball
+Psychic
+Sucker Punch
+Nasty Plot
+Shadow Sneak
+Curse
+Pain Split
+Will-o-wisp
+Shadow Ball
+Brine
+Recover
+Water Spout
+Shadow Ball
+Thunderbolt
+Nightmare
+Hypnosis
+Ice Punch
+Close Combat
+Extremespeed
+Swords Dance
+Close Combat
+Flare Blitz
+Mach Punch
+Bulk Up
+Drain Punch
+Sucker Punch
+Substitute
+Bulk Up
+Close Combat
+Psycho Cut
+Leaf Blade
+Bulk Up
+Hi Jump Kick
+Zen Headbutt
+Thunderpunch
+Ice Punch
+Cross Chop
+Stone Edge
+Ice Punch
+Bullet Punch
+Aqua Jet
+Ice Punch
+Focus Blast
+Bulk Up
+Hydro Pump
+Blizzard
+Grass Knot
+Featherdance
+Hydro Pump
+Giga Drain
+Focus Blast
+Rain Dance
+Surf
+Earth Power
+Blizzard
+Counter
+Waterfall
+Focus Punch
+Ice Punch
+Hypnosis
+Aqua Tail
+Earthquake
+Outrage
+Dragon Dance
+Metal Burst
+Fire Blast
+Stealth Rock
+Iron Defense
+X-scissor
+Earthquake
+Rock Slide
+Submission
+Gyro Ball
+Zen Headbutt
+Earthquake
+Trick Room
+Explosion
+Mirror Coat
+Protect
+Reflect
+Head Smash
+Iron Head
+Fire Punch
+Dragon Rush
+Gyro Ball
+Stealth Rock
+Earthquake
+Reflect
+Blizzard
+Shadow Ball
+Psychic
+Hail
+Blizzard
+Wood Hammer
+Earthquake
+Ingrain
+Ice Punch
+Night Slash
+Brick Break
+Torment
+Blizzard
+Shadow Ball
+Signal Beam
+Ice Shard
+Icicle Crash
+Bulldoze
+Superpower
+Rock Tomb
+Blizzard
+Crunch
+Rollout
+Hail
+Wild Charge
+Cross Chop
+Ice Punch
+Bulldoze
+Wild Charge
+Crunch
+Superpower
+Thunder Wave
+Thunderbolt
+Focus Blast
+Grass Knot
+Charge
+Discharge
+Air Slash
+Pain Split
+Substitute
+Thunderbolt
+Shadow Ball
+Charm
+Wish
+Thunder
+Signal Beam
+Taunt
+Torment

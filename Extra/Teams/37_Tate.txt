@@ -1,0 +1,55 @@
+37_Tate
+Solrock @ Passho Berry
+Ability: Levitate
+EVs: 1 HP
+Adamant Nature
+- Rock Slide
+- Zen Headbutt
+- Trick Room
+- Earthquake
+
+Xatu @ Focus Sash
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Light Screen
+- Shadow Ball
+- Trick Room
+
+Bronzong @ Lum Berry
+Ability: Levitate
+EVs: 1 HP
+Adamant Nature
+- Gyro Ball
+- Earthquake
+- Zen Headbutt
+- Trick Room
+
+Reuniclus @ Life Orb
+Ability: Magic Guard
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Trick Room
+
+Gallade @ Scope Lens
+Ability: Steadfast
+EVs: 1 HP
+Adamant Nature
+- Psycho Cut
+- Night Slash
+- Close Combat
+- Ice Punch
+
+Claydol @ Kasib Berry
+Ability: Levitate
+EVs: 1 HP
+Serious Nature
+- Trick Room
+- Explosion
+- Psychic
+- Light Screen
+

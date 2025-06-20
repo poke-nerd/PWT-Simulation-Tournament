@@ -1,0 +1,55 @@
+61_Nishino
+Clefable @ Leftovers
+Ability: Cute Charm
+EVs: 1 HP
+Modest Nature
+- Cosmic Power
+- Stored Power
+- Metronome
+- Sing
+
+Wigglytuff @ Leftovers
+Ability: Cute Charm
+EVs: 1 HP
+Modest Nature
+- Hyper Voice
+- Thunderbolt
+- Flamethrower
+- Ice Beam
+
+Azumarill @ Leftovers
+Ability: Huge Power
+EVs: 1 HP
+Adamant Nature
+- Aqua Tail
+- Double-Edge
+- Superpower
+- Bulldoze
+
+Alomomola @ Leftovers
+Ability: Hydration
+EVs: 1 HP
+Adamant Nature
+- Toxic
+- Aqua Jet
+- Protect
+- Wish
+
+Lickilicky @ Leftovers
+Ability: Own Tempo
+EVs: 1 HP
+Serious Nature
+- Power Whip
+- Earthquake
+- Fire Blast
+- Blizzard
+
+Snorlax @ Leftovers
+Ability: Thick Fat
+EVs: 1 HP
+Adamant Nature
+- Superpower
+- Crunch
+- Body Slam
+- Yawn
+

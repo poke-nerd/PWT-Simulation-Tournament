@@ -1,0 +1,55 @@
+01_Cheren
+Stoutland @ Focus Sash
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Return
+- Crunch
+- Ice Fang
+- Reversal
+
+Porygon-Z @ Chople Berry
+Ability: Download
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Psychic
+- Signal Beam
+- Thunder
+
+Cinccino @ King's Rock
+Ability: Technician
+EVs: 1 HP
+Adamant Nature
+- Tail Slap
+- Rock Blast
+- Bullet Seed
+- Aqua Tail
+
+Lickilicky @ Expert Belt
+Ability: Oblivious
+EVs: 1 HP
+Serious Nature
+- Hammer Arm
+- Power Whip
+- Thunder
+- Ice Punch
+
+Castform @ Lum Berry
+Ability: Forecast
+EVs: 1 HP
+Modest Nature
+- Weather Ball
+- Ice Beam
+- Rain Dance
+- Thunder
+
+Bouffalant @ Leftovers
+Ability: Reckless
+EVs: 1 HP
+Adamant Nature
+- Head Charge
+- Megahorn
+- Wild Charge
+- Revenge
+

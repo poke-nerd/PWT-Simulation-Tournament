@@ -1,0 +1,55 @@
+23_Falkner
+Pidgeot @ Life Orb
+Ability: Keen Eye
+EVs: 1 HP
+Serious Nature
+- Return
+- Swagger
+- Double Team
+- Air Slash
+
+Crobat @ Red Card
+Ability: Inner Focus
+EVs: 1 HP
+Adamant Nature
+- Super Fang
+- Taunt
+- Acrobatics
+- Confuse Ray
+
+Aerodactyl @ Focus Sash
+Ability: Pressure
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Ice Fang
+- Rock Slide
+- Protect
+
+Honchkrow @ Choice Scarf
+Ability: Super Luck
+EVs: 1 HP
+Serious Nature
+- Night Slash
+- Brave Bird
+- Heat Wave
+- Icy Wind
+
+Xatu @ Leftovers
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Calm Mind
+- Psyshock
+- Stored Power
+- Roost
+
+Swellow @ Flame Orb
+Ability: Guts
+EVs: 1 HP
+Adamant Nature
+- Facade
+- Protect
+- Endeavor
+- Aerial Ace
+

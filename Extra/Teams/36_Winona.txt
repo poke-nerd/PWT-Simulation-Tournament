@@ -1,0 +1,55 @@
+36_Winona
+Altaria @ Power Herb
+Ability: Natural Cure
+EVs: 1 HP
+Adamant Nature
+- Sky Attack
+- Cotton Guard
+- Dragon Dance
+- Earthquake
+
+Sigilyph @ Life Orb
+Ability: Magic Guard
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Air Slash
+- Ancientpower
+- Thunder Wave
+
+Gyarados @ Leftovers
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Dragon Dance
+- Substitute
+- Waterfall
+- Ice Fang
+
+Skarmory @ Rocky Helmet
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Whirlwind
+- Spikes
+- Steel Wing
+- Aerial Ace
+
+Tropius @ Yache Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Sunny Day
+- Air Slash
+- Solarbeam
+- Attract
+
+Honchkrow @ Dark Gem
+Ability: Super Luck
+EVs: 1 HP
+Serious Nature
+- Drill Peck
+- Tailwind
+- Sucker Punch
+- Icy Wind
+

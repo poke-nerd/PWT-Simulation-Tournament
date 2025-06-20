@@ -1,0 +1,55 @@
+21_Blaine
+Arcanine @ Focus Sash
+Ability: Intimidate
+EVs: 1 HP
+Serious Nature
+- Overheat
+- Close Combat
+- Extremespeed
+- Bulldoze
+
+Ninetales @ Charti Berry
+Ability: Flash Fire
+EVs: 1 HP
+Modest Nature
+- Fire Blast
+- Energy Ball
+- Psyshock
+- Will-O-Wisp
+
+Charizard @ Life Orb
+Ability: Blaze
+EVs: 1 HP
+Modest Nature
+- Flamethrower
+- Air Slash
+- Focus Blast
+- Dragon Pulse
+
+Magmortar @ Choice Scarf
+Ability: Flame Body
+EVs: 1 HP
+Serious Nature
+- Fire Blast
+- Psychic
+- Thunderbolt
+- Rock Slide
+
+Flareon @ Passho Berry
+Ability: Flash Fire
+EVs: 1 HP
+Serious Nature
+- Superpower
+- Quick Attack
+- Overheat
+- Toxic
+
+Rotom-Heat @ Flame Orb
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Trick
+- Overheat
+- Thunderbolt
+- Pain Split
+

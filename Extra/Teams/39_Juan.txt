@@ -1,0 +1,55 @@
+39_Juan
+Kingdra @ Haban Berry
+Ability: Swift Swim
+EVs: 1 HP
+Modest Nature
+- Hydro Pump
+- Dragon Pulse
+- Ice Beam
+- Rain Dance
+
+Walrein @ Leftovers
+Ability: Thick Fat
+EVs: 1 HP
+Modest Nature
+- Surf
+- Toxic
+- Super Fang
+- Sheer Cold
+
+Crawdaunt @ Life Orb
+Ability: Shell Armor
+EVs: 1 HP
+Adamant Nature
+- Crabhammer
+- Night Slash
+- Rain Dance
+- Guillotine
+
+Whiscash @ Chesto Berry
+Ability: Oblivious
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Waterfall
+- Spark
+- Rest
+
+Relicanth @ Damp Rock
+Ability: Swift Swim
+EVs: 1 HP
+Adamant Nature
+- Rain Dance
+- Rock Slide
+- Waterfall
+- Earthquake
+
+Politoed @ Wide Lens
+Ability: Water Absorb
+EVs: 1 HP
+Modest Nature
+- Hypnosis
+- Scald
+- Focus Blast
+- Ice Beam
+

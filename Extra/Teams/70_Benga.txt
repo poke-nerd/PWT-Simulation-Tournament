@@ -1,0 +1,54 @@
+70_Benga
+Latios (M) @ White Herb
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Draco Meteor
+- Psychic
+- Icy Wind
+- Thunderbolt
+
+Garchomp @ Life Orb
+Ability: Sand Veil
+EVs: 1 HP
+Serious Nature
+- Outrage
+- Earthquake
+- Fire Blast
+- Stone Edge
+
+Latias (F) @ White Herb
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Draco Meteor
+- Psychic
+- Icy Wind
+- Thunderbolt
+
+Dragonite @ Life Orb
+Ability: Inner Focus
+EVs: 1 HP
+Serious Nature
+- Outrage
+- Focus Blast
+- Fire Blast
+- Dragon Dance
+
+Volcarona @ Focus Sash
+Ability: Flame Body
+EVs: 1 HP
+Modest Nature
+- Fire Blast
+- Bug Buzz
+- Psychic
+- Quiver Dance
+
+Volcarona @ Focus Sash
+Ability: Flame Body
+EVs: 1 HP
+Modest Nature
+- Fire Blast
+- Bug Buzz
+- Psychic
+- Quiver Dance

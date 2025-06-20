@@ -1,0 +1,55 @@
+03_Burgh
+Leavanny @ Focus Sash
+Ability: Swarm
+EVs: 1 HP
+Adamant Nature
+- X-Scissor
+- Leaf Blade
+- Aerial Ace
+- Swords Dance
+
+Vespiquen @ Leftovers
+Ability: Pressure
+EVs: 1 HP
+Adamant Nature
+- Attack Order
+- Defend Order
+- Roost
+- Toxic
+
+Crustle @ Salac Berry
+Ability: Sturdy
+EVs: 1 HP
+Timid Nature
+- X-Scissor
+- Rock Blast
+- Earthquake
+- Shell Smash
+
+Heracross @ Choice Scarf
+Ability: Swarm
+EVs: 1 HP
+Adamant Nature
+- Megahorn
+- Close Combat
+- Shadow Claw
+- Stone Edge
+
+Accelgor @ BrightPowder
+Ability: Sticky Hold
+EVs: 1 HP
+Modest Nature
+- Bug Buzz
+- Focus Blast
+- Giga Drain
+- Double Team
+
+Durant @ Wide Lens
+Ability: Swarm
+EVs: 1 HP
+Adamant Nature
+- X-Scissor
+- Iron Head
+- Stone Edge
+- Guillotine
+

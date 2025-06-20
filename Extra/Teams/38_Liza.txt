@@ -1,0 +1,55 @@
+38_Liza
+Lunatone @ Expert Belt
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Grass Knot
+- Cosmic Power
+- Trick Room
+- Signal Beam
+
+Xatu @ Focus Sash
+Ability: Synchronize
+EVs: 1 HP
+Adamant Nature
+- Pain Split
+- Zen Headbutt
+- U-turn
+- Trick Room
+
+Bronzong @ Rocky Helmet
+Ability: Levitate
+EVs: 1 HP
+Adamant Nature
+- Iron Head
+- Hypnosis
+- Earthquake
+- Trick Room
+
+Gothitelle @ Leftovers
+Ability: Frisk
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Shadow Ball
+- Calm Mind
+- Trick Room
+
+Gardevoir @ Lum Berry
+Ability: Trace
+EVs: 1 HP
+Modest Nature
+- Disable
+- Psychic
+- Will-o-wisp
+- Thunderbolt
+
+Claydol @ Sitrus Berry
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Trick Room
+- Earth Power
+- Ice Beam
+- Psyshock
+

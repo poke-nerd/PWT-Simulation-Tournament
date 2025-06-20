@@ -1,0 +1,55 @@
+55_Iris
+Hydreigon @ Wise Glasses
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Fire Blast
+- Focus Blast
+- Dragon Pulse
+- Surf
+
+Salamence @ Life Orb
+Ability: Intimidate
+EVs: 1 HP
+Serious Nature
+- Fire Blast
+- Earthquake
+- Draco Meteor
+- Crunch
+
+Archeops @ Sitrus Berry
+Ability: Defeatist
+EVs: 1 HP
+Serious Nature
+- Acrobatics
+- Stone Edge
+- Dragon Claw
+- Endeavor
+
+Aggron @ Muscle Band
+Ability: Rock Head
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Double-Edge
+- Head Smash
+- Autotomize
+
+Lapras @ Zoom Lens
+Ability: Water Absorb
+EVs: 1 HP
+Modest Nature
+- Hydro Pump
+- Blizzard
+- Thunder
+- Sing
+
+Haxorus @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Guillotine
+- Outrage
+- Dragon Dance
+

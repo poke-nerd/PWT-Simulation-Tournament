@@ -1,0 +1,55 @@
+43_Maylene
+Lucario @ Focus Sash
+Ability: Inner Focus
+EVs: 1 HP
+Adamant Nature
+- Ice Punch
+- Close Combat
+- Extremespeed
+- Swords Dance
+
+Infernape @ Fire Gem
+Ability: Blaze
+EVs: 1 HP
+Adamant Nature
+- Close Combat
+- Flare Blitz
+- Mach Punch
+- Bulk Up
+
+Toxicroak @ Payapa Berry
+Ability: Dry Skin
+EVs: 1 HP
+Adamant Nature
+- Drain Punch
+- Sucker Punch
+- Substitute
+- Bulk Up
+
+Gallade @ Coba Berry
+Ability: Steadfast
+EVs: 1 HP
+Adamant Nature
+- Close Combat
+- Psycho Cut
+- Leaf Blade
+- Bulk Up
+
+Medicham @ Choice Scarf
+Ability: Pure Power
+EVs: 1 HP
+Adamant Nature
+- High Jump Kick
+- Zen Headbutt
+- Thunderpunch
+- Ice Punch
+
+Machamp @ Scope Lens
+Ability: No Guard
+EVs: 1 HP
+Adamant Nature
+- Cross Chop
+- Stone Edge
+- Ice Punch
+- Bullet Punch
+

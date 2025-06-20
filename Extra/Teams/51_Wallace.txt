@@ -1,0 +1,55 @@
+51_Wallace
+Milotic @ Rocky Helmet
+Ability: Marvel Scale
+EVs: 1 HP
+Modest Nature
+- Scald
+- Icy Wind
+- Rest
+- Sleep Talk
+
+Sharpedo @ Focus Sash
+Ability: Rough Skin
+EVs: 1 HP
+Serious Nature
+- Aqua Jet
+- Zen Headbutt
+- Hydro Pump
+- Crunch
+
+Walrein @ Leftovers
+Ability: Thick Fat
+EVs: 1 HP
+Modest Nature
+- Yawn
+- Blizzard
+- Surf
+- Sheer Cold
+
+Ludicolo @ Life Orb
+Ability: Swift Swim
+EVs: 1 HP
+Modest Nature
+- Giga Drain
+- Focus Blast
+- Surf
+- Rain Dance
+
+Swampert @ Rindo Berry
+Ability: Torrent
+EVs: 1 HP
+Modest Nature
+- Ice Beam
+- Muddy Water
+- Earth Power
+- Focus Blast
+
+Starmie @ Expert Belt
+Ability: Natural Cure
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Psychic
+- Surf
+- Signal Beam
+

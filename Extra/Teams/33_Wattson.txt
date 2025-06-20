@@ -1,0 +1,55 @@
+33_Wattson
+Manectric @ Life Orb
+Ability: Lightning Rod
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Flamethrower
+- Thunder Wave
+- Double Team
+
+Magnezone @ Leftovers
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Toxic
+- Protect
+- Flash Cannon
+
+Electrode @ Air Balloon
+Ability: Static
+EVs: 1 HP
+Modest Nature
+- Thunder
+- Signal Beam
+- Swagger
+- Thunder Wave
+
+Rotom-Wash @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Thunder
+- Hydro Pump
+- Hex
+- Will-O-Wisp
+
+Ampharos @ Expert Belt
+Ability: Static
+EVs: 1 HP
+Adamant Nature
+- Fire Punch
+- Thunderpunch
+- Bulldoze
+- Brick Break
+
+Raichu @ Focus Sash
+Ability: Static
+EVs: 1 HP
+Modest Nature
+- Thunder
+- Focus Blast
+- Grass Knot
+- Swagger
+

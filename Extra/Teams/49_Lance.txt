@@ -1,0 +1,55 @@
+49_Lance
+Dragonite @ Focus Sash
+Ability: Inner Focus
+EVs: 1 HP
+Serious Nature
+- Extreme Speed
+- Ice Beam
+- Fire Punch
+- Draco Meteor
+
+Salamence @ Expert Belt
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Dragon Claw
+- Crunch
+- Earthquake
+- Stone Edge
+
+Kingdra @ Scope Lens
+Ability: Sniper
+EVs: 1 HP
+Modest Nature
+- Surf
+- Ice Beam
+- Dragon Pulse
+- Flash Cannon
+
+Hydreigon @ White Herb
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Draco Meteor
+- Fire Blast
+- Earth Power
+- Dark Pulse
+
+Haxorus @ Choice Scarf
+Ability: Mold Breaker
+EVs: 1 HP
+Adamant Nature
+- Outrage
+- Superpower
+- Earthquake
+- Rock Slide
+
+Flygon @ Power Herb
+Ability: Levitate
+EVs: 1 HP
+Serious Nature
+- Solar Beam
+- Draco Meteor
+- Earth Power
+- U-turn
+

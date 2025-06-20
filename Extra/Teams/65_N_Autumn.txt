@@ -1,0 +1,55 @@
+65_N_Autumn
+Hippowdon @ Life Orb
+Ability: Sand Stream
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Crunch
+- Superpower
+- Stealth Rock
+
+Gastrodon @ Smooth Rock
+Ability: Storm Drain
+EVs: 1 HP
+Modest Nature
+- Earth Power
+- Muddy Water
+- Ice Beam
+- Sandstorm
+
+Cradily @ Smooth Rock
+Ability: Suction Cups
+EVs: 1 HP
+Modest Nature
+- Sandstorm
+- Giga Drain
+- Confuse Ray
+- Stockpile
+
+Armaldo
+Ability: Battle Armor
+EVs: 1 HP
+Adamant Nature
+- Rock Slide
+- X-Scissor
+- Aqua Tail
+- Rock Polish
+
+Scizor
+Ability: Swarm
+EVs: 1 HP
+Adamant Nature
+- Bullet Punch
+- Double Hit
+- Bug Bite
+- Aerial Ace
+
+Rhyperior
+Ability: Solid Rock
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Stone Edge
+- Fire Punch
+- Ice Punch
+

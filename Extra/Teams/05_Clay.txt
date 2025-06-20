@@ -1,0 +1,55 @@
+05_Clay
+Excadrill @ Focus Sash
+Ability: Sand Rush
+EVs: 1 HP
+Adamant Nature
+- Drill Run
+- Rock Slide
+- Submission
+- Swords Dance
+
+Flygon @ Liechi Berry
+Ability: Levitate
+EVs: 1 HP
+Adamant Nature
+- Outrage
+- Earth Power
+- Fire Blast
+- Stone Edge
+
+Krookodile @ Choice Band
+Ability: Moxie
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Fire Fang
+- Stone Edge
+- Aqua Tail
+
+Seismitoad @ Life Orb
+Ability: Swift Swim
+EVs: 1 HP
+Modest Nature
+- Earth Power
+- Hydro Pump
+- Focus Blast
+- Grass Knot
+
+Mamoswine @ Ice Gem
+Ability: Oblivious
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Ice Shard
+- Stone Edge
+- Fissure
+
+Golurk @ Leftovers
+Ability: Iron Fist
+EVs: 1 HP
+Adamant Nature
+- Substitute
+- Shadow Punch
+- Earthquake
+- Focus Punch
+

@@ -1,0 +1,55 @@
+22_Giovanni
+Rhyperior @ Life Orb
+Ability: Solid Rock
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Rock Blast
+- Ice Punch
+- Hammer Arm
+
+Hippowdon @ Quick Claw
+Ability: Sand Stream
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Crunch
+- Ice Fang
+- Stone Edge
+
+Garchomp @ Choice Scarf
+Ability: Sand Veil
+EVs: 1 HP
+Adamant Nature
+- Outrage
+- Earthquake
+- Rock Slide
+- Brick Break
+
+Krookodile @ Expert Belt
+Ability: Moxie
+EVs: 1 HP
+Serious Nature
+- Earthquake
+- Superpower
+- Fire Fang
+- Grass Knot
+
+Nidoking @ Choice Specs
+Ability: Poison Point
+EVs: 1 HP
+Modest Nature
+- Earth Power
+- Ice Beam
+- Flamethrower
+- Thunderbolt
+
+Gliscor @ Flying Gem
+Ability: Sand Veil
+EVs: 1 HP
+Adamant Nature
+- Acrobatics
+- Earthquake
+- Fire Fang
+- Tailwind
+

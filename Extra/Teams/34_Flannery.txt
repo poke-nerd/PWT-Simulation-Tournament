@@ -1,0 +1,55 @@
+34_Flannery
+Torkoal @ Leftovers
+Ability: White Smoke
+EVs: 1 HP
+Serious Nature
+- Overheat
+- Earthquake
+- Stone Edge
+- Yawn
+
+Camerupt @ Passho Berry
+Ability: Solid Rock
+EVs: 1 HP
+Modest Nature
+- Earth Power
+- Fissure
+- Will-o-wisp
+- Flamethrower
+
+Chandelure @ Focus Sash
+Ability: Flame Body
+EVs: 1 HP
+Serious Nature
+- Flamethrower
+- Flame Charge
+- Shadow Ball
+- Calm Mind
+
+Blaziken @ Air Balloon
+Ability: Blaze
+EVs: 1 HP
+Adamant Nature
+- High Jump Kick
+- Earthquake
+- Flame Charge
+- Stone Edge
+
+Houndoom @ Life Orb
+Ability: Flash Fire
+EVs: 1 HP
+Serious Nature
+- Overheat
+- Sucker Punch
+- Flame Charge
+- Will-o-wisp
+
+Magmortar @ Shuca Berry
+Ability: Flame Body
+EVs: 1 HP
+Serious Nature
+- Fire Blast
+- Thunderbolt
+- Flame Charge
+- Psychic
+

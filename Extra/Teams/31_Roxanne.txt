@@ -1,0 +1,55 @@
+31_Roxanne
+Probopass @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Power Gem
+- Earth Power
+- Pain Split
+- Thunderbolt
+
+Armaldo @ Lum Berry
+Ability: Battle Armor
+EVs: 1 HP
+Adamant Nature
+- Rock Slide
+- Rock Polish
+- Earthquake
+- X-scissor
+
+Cradily @ Leftovers
+Ability: Suction Cups
+EVs: 1 HP
+Serious Nature
+- Toxic
+- Giga Drain
+- Amnesia
+- Rock Slide
+
+Aggron @ Focus Sash
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Head Smash
+- Iron Head
+- Metal Burst
+- Avalanche
+
+Carracosta @ Water Gem
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Waterfall
+- Shell Smash
+- Rock Slide
+- Aqua Jet
+
+Golem @ Ground Gem
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Focus Punch
+- Protect
+- Earthquake
+- Fire Punch
+

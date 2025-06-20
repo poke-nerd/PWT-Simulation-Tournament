@@ -1,0 +1,55 @@
+35_Norman
+Slaking @ Eject Button
+Ability: Truant
+EVs: 1 HP
+Adamant Nature
+- Giga Impact
+- Night Slash
+- Earthquake
+- Hammer Arm
+
+Ambipom @ Normal Gem
+Ability: Technician
+EVs: 1 HP
+Adamant Nature
+- Return
+- Acrobatics
+- Fake Out
+- Fire Punch
+
+Bouffalant @ Life Orb
+Ability: Reckless
+EVs: 1 HP
+Adamant Nature
+- Head Charge
+- Stone Edge
+- Megahorn
+- Revenge
+
+Staraptor @ Choice Band
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Brave Bird
+- Close Combat
+- Quick Attack
+- Final Gambit
+
+Exploud @ Expert Belt
+Ability: Soundproof
+EVs: 1 HP
+Modest Nature
+- Hyper Voice
+- Fire Blast
+- Blizzard
+- Focus Blast
+
+Sawsbuck @ Chesto Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Adamant Nature
+- Horn Leech
+- Return
+- Swords Dance
+- Rest
+

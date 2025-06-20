@@ -1,0 +1,55 @@
+10_Cress
+Simipour @ Water Gem
+Ability: Gluttony
+EVs: 1 HP
+Serious Nature
+- Hydro Pump
+- Low Kick
+- Acrobatics
+- Crunch
+
+Crawdaunt @ Choice Scarf
+Ability: Hyper Cutter
+EVs: 1 HP
+Adamant Nature
+- Crunch
+- Waterfall
+- Brick Break
+- Guillotine
+
+Samurott @ Leftovers
+Ability: Torrent
+EVs: 1 HP
+Adamant Nature
+- Razor Shell
+- Megahorn
+- Aqua Jet
+- Revenge
+
+Azumarill @ Choice Band
+Ability: Huge Power
+EVs: 1 HP
+Adamant Nature
+- Aqua Jet
+- Aqua Tail
+- Superpower
+- Giga Impact
+
+Slowking @ Expert Belt
+Ability: Own Tempo
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Blizzard
+- Fire Blast
+- Nasty Plot
+
+Seismitoad @ Rindo Berry
+Ability: Swift Swim
+EVs: 1 HP
+Serious Nature
+- Hydro Pump
+- Poison Jab
+- Earth Power
+- Rain Dance
+

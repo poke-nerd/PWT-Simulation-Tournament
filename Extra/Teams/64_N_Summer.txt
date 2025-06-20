@@ -1,0 +1,55 @@
+64_N_Summer
+Ninetales @ Life Orb
+Ability: Drought
+EVs: 1 HP
+Serious Nature
+- Fire Blast
+- Solar Beam
+- Foul Play
+- Confuse Ray
+
+Arcanine
+Ability: Intimidate
+EVs: 1 HP
+Serious Nature
+- Extreme Speed
+- Overheat
+- Wild Charge
+- Outrage
+
+Rapidash
+Ability: Flash Fire
+EVs: 1 HP
+Serious Nature
+- Megahorn
+- Drill Run
+- Flare Blitz
+- Solar Beam
+
+Shiftry @ Heat Rock
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Dark Pulse
+- Solar Beam
+- Focus Blast
+- Sunny Day
+
+Ninjask @ Heat Rock
+Ability: Speed Boost
+EVs: 1 HP
+Serious Nature
+- Sunny Day
+- X-Scissor
+- Solar Beam
+- Protect
+
+Leafeon
+Ability: Leaf Guard
+EVs: 1 HP
+Adamant Nature
+- Leaf Blade
+- X-Scissor
+- Attract
+- Iron Tail
+

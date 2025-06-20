@@ -1,0 +1,55 @@
+02_Roxie
+Scolipede @ Choice Scarf
+Ability: Swarm
+EVs: 1 HP
+Adamant Nature
+- Poison Jab
+- Megahorn
+- Earthquake
+- Rock Slide
+
+Toxicroak @ Focus Sash
+Ability: Anticipation
+EVs: 1 HP
+Adamant Nature
+- Poison Jab
+- Swords Dance
+- Drain Punch
+- Protect
+
+Garbodor @ Expert Belt
+Ability: Stench
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Thunderbolt
+- Focus Blast
+- Protect
+
+Crobat @ Psychic Gem
+Ability: Inner Focus
+EVs: 1 HP
+Adamant Nature
+- Cross Poison
+- Zen Headbutt
+- Tailwind
+- Brave Bird
+
+Drapion @ Scope Lens
+Ability: Sniper
+EVs: 1 HP
+Adamant Nature
+- Cross Poison
+- Night Slash
+- Ice Fang
+- Protect
+
+Amoonguss @ Black Sludge
+Ability: Effect Spore
+EVs: 1 HP
+Serious Nature
+- Foul Play
+- Spore
+- Giga Drain
+- Protect
+

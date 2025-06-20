@@ -1,0 +1,55 @@
+50_Steven
+Metagross @ Occa Berry
+Ability: Clear Body
+EVs: 1 HP
+Adamant Nature
+- Hammer Arm
+- Bullet Punch
+- Zen Headbutt
+- Earthquake
+
+Aggron @ Air Balloon
+Ability: Rock Head
+EVs: 1 HP
+Adamant Nature
+- Head Smash
+- Metal Burst
+- Earthquake
+- Sandstorm
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Rock Slide
+- X-Scissor
+- Sandstorm
+
+Archeops @ Sitrus Berry
+Ability: Defeatist
+EVs: 1 HP
+Adamant Nature
+- Quick Attack
+- Acrobatics
+- Head Smash
+- Earthquake
+
+Cradily @ Expert Belt
+Ability: Suction Cups
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Seed Bomb
+- Earthquake
+- Sandstorm
+
+Armaldo @ White Herb
+Ability: Battle Armor
+EVs: 1 HP
+Adamant Nature
+- X-Scissor
+- Earthquake
+- Rock Blast
+- Superpower
+

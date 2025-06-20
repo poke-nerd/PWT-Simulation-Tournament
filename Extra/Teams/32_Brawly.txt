@@ -1,0 +1,55 @@
+32_Brawly
+Hariyama @ Chesto Berry
+Ability: Thick Fat
+EVs: 1 HP
+Adamant Nature
+- Bulk Up
+- Rest
+- Revenge
+- Stone Edge
+
+Scrafty @ Leftovers
+Ability: Moxie
+EVs: 1 HP
+Adamant Nature
+- Bulk Up
+- Drain Punch
+- Dragon Tail
+- Amnesia
+
+Breloom @ Focus Sash
+Ability: Effect Spore
+EVs: 1 HP
+Adamant Nature
+- Spore
+- Focus Punch
+- Seed Bomb
+- Stone Edge
+
+Machamp @ Choice Band
+Ability: No Guard
+EVs: 1 HP
+Adamant Nature
+- Dynamic Punch
+- Stone Edge
+- Fire Punch
+- Earthquake
+
+Mienshao @ Life Orb
+Ability: Regenerator
+EVs: 1 HP
+Adamant Nature
+- High Jump Kick
+- Fake Out
+- Aerial Ace
+- Drain Punch
+
+Heracross @ Choice Scarf
+Ability: Guts
+EVs: 1 HP
+Adamant Nature
+- Megahorn
+- Close Combat
+- Stone Edge
+- Aerial Ace
+

@@ -1,0 +1,55 @@
+47_Volkner
+Electivire @ Salac Berry
+Ability: Motor Drive
+EVs: 1 HP
+Adamant Nature
+- Wild Charge
+- Cross Chop
+- Ice Punch
+- Bulldoze
+
+Luxray @ Liechi Berry
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Wild Charge
+- Crunch
+- Superpower
+- Thunder Wave
+
+Raichu @ Grass Gem
+Ability: Static
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Focus Blast
+- Grass Knot
+- Charge
+
+Rotom-Fan @ King's Rock
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Discharge
+- Air Slash
+- Pain Split
+- Substitute
+
+Jolteon @ Air Balloon
+Ability: Volt Absorb
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Shadow Ball
+- Charm
+- Wish
+
+Electrode @ Electric Gem
+Ability: Static
+EVs: 1 HP
+Modest Nature
+- Thunder
+- Signal Beam
+- Taunt
+- Torment
+

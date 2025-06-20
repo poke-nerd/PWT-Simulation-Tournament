@@ -1,0 +1,55 @@
+25_Whitney
+Miltank @ Lum Berry
+Ability: Scrappy
+EVs: 1 HP
+Adamant Nature
+- Return
+- Zen Headbutt
+- Brick Break
+- Milk Drink
+
+Blissey @ Leftovers
+Ability: Serene Grace
+EVs: 1 HP
+Modest Nature
+- Soft-Boiled
+- Flamethrower
+- Grass Knot
+- Toxic
+
+Tauros @ Life Orb
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Return
+- Earthquake
+- Rock Slide
+- Protect
+
+Ambipom @ Focus Sash
+Ability: Technician
+EVs: 1 HP
+Adamant Nature
+- Fake Out
+- Double Hit
+- Low Sweep
+- Ice Punch
+
+Ursaring @ Toxic Orb
+Ability: Guts
+EVs: 1 HP
+Adamant Nature
+- Facade
+- Swords Dance
+- Crunch
+- Rock Slide
+
+Lopunny @ Chople Berry
+Ability: Cute Charm
+EVs: 1 HP
+Adamant Nature
+- Entrainment
+- Return
+- Low Kick
+- Encore
+

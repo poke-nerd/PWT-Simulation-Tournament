@@ -1,0 +1,55 @@
+54_Red
+Pikachu @ Light Ball
+Ability: Lightning Rod
+EVs: 1 HP
+Adamant Nature
+- Volt Tackle
+- Iron Tail
+- Brick Break
+- Fake Out
+
+Snorlax @ Quick Claw
+Ability: Thick Fat
+EVs: 1 HP
+Adamant Nature
+- Body Slam
+- Earthquake
+- Crunch
+- Seed Bomb
+
+Lapras @ Sitrus Berry
+Ability: Water Absorb
+EVs: 1 HP
+Serious Nature
+- Ice Beam
+- Hydro Pump
+- Ice Shard
+- Thunderbolt
+
+Venusaur @ White Herb
+Ability: Overgrow
+EVs: 1 HP
+Serious Nature
+- Leaf Storm
+- Sludge Bomb
+- Earthquake
+- Sleep Powder
+
+Blastoise @ Choice Scarf
+Ability: Torrent
+EVs: 1 HP
+Modest Nature
+- Water Spout
+- Hydro Pump
+- Blizzard
+- Focus Blast
+
+Charizard @ Focus Sash
+Ability: Blaze
+EVs: 1 HP
+Modest Nature
+- Fire Blast
+- Focus Blast
+- Air Slash
+- Dragon Pulse
+

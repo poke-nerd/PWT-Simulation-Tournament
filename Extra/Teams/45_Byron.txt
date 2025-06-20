@@ -1,0 +1,55 @@
+45_Byron
+Bastiodon @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Metal Burst
+- Fire Blast
+- Stealth Rock
+- Iron Defense
+
+Excadrill @ Life Orb
+Ability: Sand Rush
+EVs: 1 HP
+Adamant Nature
+- X-Scissor
+- Earthquake
+- Rock Slide
+- Submission
+
+Bronzong @ Iron Ball
+Ability: Levitate
+EVs: 1 HP
+Adamant Nature
+- Gyro Ball
+- Zen Headbutt
+- Earthquake
+- Trick Room
+
+Magnezone @ Shuca Berry
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Explosion
+- Mirror Coat
+- Protect
+- Reflect
+
+Aggron @ Choice Band
+Ability: Rock Head
+EVs: 1 HP
+Adamant Nature
+- Head Smash
+- Iron Head
+- Fire Punch
+- Dragon Rush
+
+Forretress @ Light Clay
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Gyro Ball
+- Stealth Rock
+- Earthquake
+- Reflect
+

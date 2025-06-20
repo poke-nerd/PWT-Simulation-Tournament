@@ -1,0 +1,55 @@
+24_Bugsy
+Scizor @ Sitrus Berry
+Ability: Technician
+EVs: 1 HP
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Swords Dance
+- Acrobatics
+
+Shuckle @ Rocky Helmet
+Ability: Sturdy
+EVs: 1 HP
+Serious Nature
+- Power Split
+- Stone Edge
+- Earthquake
+- Toxic
+
+Heracross @ Choice Band
+Ability: Guts
+EVs: 1 HP
+Adamant Nature
+- Megahorn
+- Stone Edge
+- Close Combat
+- Shadow Claw
+
+Pinsir @ Life Orb
+Ability: Mold Breaker
+EVs: 1 HP
+Adamant Nature
+- X-Scissor
+- Bulldoze
+- Guillotine
+- Protect
+
+Armaldo @ Quick Claw
+Ability: Battle Armor
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Stone Edge
+- X-Scissor
+- Swords Dance
+
+Yanmega @ Focus Sash
+Ability: Speed Boost
+EVs: 1 HP
+Modest Nature
+- Protect
+- Bug Buzz
+- Air Slash
+- Giga Drain
+

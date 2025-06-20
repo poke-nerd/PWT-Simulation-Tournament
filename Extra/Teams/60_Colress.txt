@@ -1,0 +1,55 @@
+60_Colress
+Magneton @ Eviolite
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Volt Switch
+- Flash Cannon
+- Tri Attack
+- Thunder Wave
+
+Rotom-Wash @ Life Orb
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Discharge
+- Hydro Pump
+- Will-O-Wisp
+- Substitute
+
+Metagross @ Muscle Band
+Ability: Clear Body
+EVs: 1 HP
+Adamant Nature
+- Meteor Mash
+- Zen Headbutt
+- Rock Slide
+- Agility
+
+Beheeyem @ Leftovers
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Energy Ball
+- Calm Mind
+- Recover
+
+Magnezone @ Wise Glasses
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Flash Cannon
+- Hyper Beam
+- Thunder Wave
+
+Klinklang @ Air Balloon
+Ability: Plus
+EVs: 1 HP
+Adamant Nature
+- Gear Grind
+- Wild Charge
+- Giga Impact
+- Shift Gear
+

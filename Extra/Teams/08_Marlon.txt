@@ -1,0 +1,55 @@
+08_Marlon
+Jellicent @ Expert Belt
+Ability: Cursed Body
+EVs: 1 HP
+Modest Nature
+- Hydro Pump
+- Energy Ball
+- Shadow Ball
+- Psychic
+
+Carracosta @ Lum Berry
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Waterfall
+- Rock Slide
+- Aqua Jet
+- Shell Smash
+
+Starmie @ Focus Sash
+Ability: Natural Cure
+EVs: 1 HP
+Modest Nature
+- Scald
+- Light Screen
+- Reflect
+- Thunderbolt
+
+Quagsire @ Rindo Berry
+Ability: Water Absorb
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Earthquake
+- Waterfall
+- Counter
+
+Cloyster @ King's Rock
+Ability: Skill Link
+EVs: 1 HP
+Adamant Nature
+- Ice Shard
+- Rock Blast
+- Icicle Spear
+- Shell Smash
+
+Wailord @ Choice Scarf
+Ability: Water Veil
+EVs: 1 HP
+Modest Nature
+- Water Spout
+- Fissure
+- Blizzard
+- Bounce
+

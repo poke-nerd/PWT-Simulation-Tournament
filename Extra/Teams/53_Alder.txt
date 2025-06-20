@@ -1,0 +1,55 @@
+53_Alder
+Volcarona @ Charti Berry
+Ability: Flame Body
+EVs: 1 HP
+Modest Nature
+- Quiver Dance
+- Heat Wave
+- Bug Buzz
+- Psychic
+
+Conkeldurr @ Life Orb
+Ability: Sheer Force
+EVs: 1 HP
+Adamant Nature
+- Hammer Arm
+- Mach Punch
+- Payback
+- Stone Edge
+
+Reuniclus @ Leftovers
+Ability: Magic Guard
+EVs: 1 HP
+Modest Nature
+- Light Screen
+- Reflect
+- Toxic
+- Psychic
+
+Krookodile @ Expert Belt
+Ability: Moxie
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+
+Chandelure @ Choice Scarf
+Ability: Flame Body
+EVs: 1 HP
+Modest Nature
+- Flamethrower
+- Shadow Ball
+- Energy Ball
+- Psychic
+
+Braviary (M) @ Choice Band
+Ability: Sheer Force
+EVs: 1 HP
+Adamant Nature
+- Brave Bird
+- Superpower
+- Rock Slide
+- U-turn
+

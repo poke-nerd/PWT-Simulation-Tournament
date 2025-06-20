@@ -1,0 +1,55 @@
+20_Sabrina
+Alakazam @ Kasib Berry
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Charge Beam
+
+Metagross @ Expert Belt
+Ability: Clear Body
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Shadow Ball
+- Signal Beam
+- Grass Knot
+
+Exeggutor @ Tanga Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Energy Ball
+- Sleep Powder
+- Dream Eater
+
+Slowking @ Choice Specs
+Ability: Own Tempo
+EVs: 1 HP
+Modest Nature
+- Scald
+- Psychic
+- Shadow Ball
+- Focus Blast
+
+Espeon @ Leftovers
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Psyshock
+- Signal Beam
+- Psychic
+- Calm Mind
+
+Sigilyph @ Life Orb
+Ability: Magic Guard
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Air Slash
+- Ice Beam
+- Light Screen
+

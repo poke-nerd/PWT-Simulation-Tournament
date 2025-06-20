@@ -1,0 +1,55 @@
+18_Erika
+Vileplume @ Black Sludge
+Ability: Chlorophyll
+EVs: 1 HP
+Adamant Nature
+- Drain Punch
+- Swords Dance
+- Synthesis
+- Sleep Powder
+
+Venusaur @ Expert Belt
+Ability: Overgrow
+EVs: 1 HP
+Serious Nature
+- Leaf Storm
+- Power Whip
+- Earthquake
+- Outrage
+
+Cradily @ Leftovers
+Ability: Suction Cups
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Recover
+- Seed Bomb
+- Curse
+
+Exeggutor @ Tanga Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Psyshock
+- Leaf Storm
+- Ancientpower
+
+Tangrowth @ Power Herb
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Solar Beam
+- Ancientpower
+- Focus Blast
+- Synthesis
+
+Abomasnow @ Focus Sash
+Ability: Snow Warning
+EVs: 1 HP
+Modest Nature
+- Blizzard
+- Leech Seed
+- Protect
+- Sheer Cold
+

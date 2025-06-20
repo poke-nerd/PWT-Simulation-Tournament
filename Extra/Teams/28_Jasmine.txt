@@ -1,0 +1,55 @@
+28_Jasmine
+Steelix @ Rocky Helmet
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Gyro Ball
+- Earthquake
+- Stealth Rock
+- Curse
+
+Magnezone @ Quick Claw
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Flash Cannon
+- Mirror Coat
+- Magnet Rise
+
+Forretress @ Iron Ball
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Gyro Ball
+- Toxic
+- Explosion
+
+Skarmory @ Leftovers
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Curse
+- Roost
+- Aerial Ace
+- Stealth Rock
+
+Metagross @ Air Balloon
+Ability: Clear Body
+EVs: 1 HP
+Adamant Nature
+- Meteor Mash
+- Bullet Punch
+- Earthquake
+- Explosion
+
+Lucario @ Life Orb
+Ability: Inner Focus
+EVs: 1 HP
+Serious Nature
+- Extreme Speed
+- Crunch
+- Aura Sphere
+- Stone Edge
+

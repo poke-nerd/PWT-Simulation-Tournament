@@ -1,0 +1,55 @@
+46_Candice
+Froslass @ Petaya Berry
+Ability: Snow Cloak
+EVs: 1 HP
+Modest Nature
+- Blizzard
+- Shadow Ball
+- Psychic
+- Hail
+
+Abomasnow @ Occa Berry
+Ability: Snow Warning
+EVs: 1 HP
+Serious Nature
+- Blizzard
+- Wood Hammer
+- Earthquake
+- Ingrain
+
+Weavile @ Chople Berry
+Ability: Pressure
+EVs: 1 HP
+Adamant Nature
+- Ice Punch
+- Night Slash
+- Brick Break
+- Torment
+
+Glaceon @ Life Orb
+Ability: Snow Cloak
+EVs: 1 HP
+Serious Nature
+- Blizzard
+- Shadow Ball
+- Signal Beam
+- Ice Shard
+
+Mamoswine @ Salac Berry
+Ability: Snow Cloak
+EVs: 1 HP
+Adamant Nature
+- Icicle Crash
+- Bulldoze
+- Superpower
+- Rock Tomb
+
+Glalie @ Rock Gem
+Ability: Ice Body
+EVs: 1 HP
+Serious Nature
+- Blizzard
+- Crunch
+- Rollout
+- Hail
+

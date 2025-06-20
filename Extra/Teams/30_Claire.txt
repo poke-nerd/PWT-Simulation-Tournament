@@ -1,0 +1,55 @@
+30_Claire
+Dragonite @ Yache Berry
+Ability: Inner Focus
+EVs: 1 HP
+Serious Nature
+- Draco Meteor
+- Earthquake
+- Extremespeed
+- Outrage
+
+Kingdra @ Chesto Berry
+Ability: Sniper
+EVs: 1 HP
+Adamant Nature
+- Dragon Dance
+- Outrage
+- Waterfall
+- Rest
+
+Altaria @ Leftovers
+Ability: Natural Cure
+EVs: 1 HP
+Modest Nature
+- Cotton Guard
+- Toxic
+- Double Team
+- Fire Blast
+
+Salamence @ Dragon Gem
+Ability: Intimidate
+EVs: 1 HP
+Serious Nature
+- Draco Meteor
+- Outrage
+- Rock Slide
+- Earthquake
+
+Druddigon @ Rocky Helmet
+Ability: Rough Skin
+EVs: 1 HP
+Adamant Nature
+- Revenge
+- Sucker Punch
+- Glare
+- Dragon Claw
+
+Garchomp @ Focus Sash
+Ability: Sand Veil
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Dual Chop
+- Fire Fang
+- Swords Dance
+

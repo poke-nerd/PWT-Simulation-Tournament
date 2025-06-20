@@ -1,0 +1,55 @@
+58_Grimsley
+Honchkrow @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Serious Nature
+- Night Slash
+- Psychic
+- Aerial Ace
+- Haze
+
+Scrafty @ Leftovers
+Ability: Moxie
+EVs: 1 HP
+Adamant Nature
+- Head Smash
+- Crunch
+- High Jump Kick
+- Poison Jab
+
+Krookodile @ Muscle Band
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Crunch
+- Outrage
+
+Houndoom @ Wise Glasses
+Ability: Flash Fire
+EVs: 1 HP
+Serious Nature
+- Thunder Fang
+- Fire Blast
+- Sludge Bomb
+- Crunch
+
+Tyranitar @ Focus Band
+Ability: Sand Stream
+EVs: 1 HP
+Serious Nature
+- Dark Pulse
+- Stone Edge
+- Fire Blast
+- Earthquake
+
+Bisharp @ Quick Claw
+Ability: Defiant
+EVs: 1 HP
+Adamant Nature
+- Guillotine
+- X-Scissor
+- Night Slash
+- Aerial Ace
+

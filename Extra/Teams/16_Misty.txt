@@ -1,0 +1,55 @@
+16_Misty
+Starmie @ Choice Scarf
+Ability: Natural Cure
+EVs: 1 HP
+Modest Nature
+- Grass Knot
+- Psychic
+- Thunderbolt
+- Ice Beam
+
+Lanturn @ Sitrus Berry
+Ability: Volt Absorb
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Scald
+- Ice Beam
+- Toxic
+
+Jellicent @ Leftovers
+Ability: Water Absorb
+EVs: 1 HP
+Modest Nature
+- Recover
+- Surf
+- Shadow Ball
+- Will-o-wisp
+
+Lapras @ Zoom Lens
+Ability: Shell Armor
+EVs: 1 HP
+Serious Nature
+- Hydro Pump
+- Blizzard
+- Ice Shard
+- Sheer Cold
+
+Quagsire @ Focus Sash
+Ability: Water Absorb
+EVs: 1 HP
+Adamant Nature
+- Yawn
+- Waterfall
+- Earthquake
+- Rain Dance
+
+Blastoise @ Salac Berry
+Ability: Torrent
+EVs: 1 HP
+Serious Nature
+- Hydro Pump
+- Outrage
+- Avalanche
+- Iron Defense
+

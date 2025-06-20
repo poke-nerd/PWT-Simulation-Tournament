@@ -1,0 +1,55 @@
+13_Brycen
+Cryogonal @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Serious Nature
+- Blizzard
+- Flash Cannon
+- Sheer Cold
+- Ice Shard
+
+Beartic @ BrightPowder
+Ability: Snow Cloak
+EVs: 1 HP
+Adamant Nature
+- Icicle Crash
+- Focus Punch
+- Substitute
+- Swords Dance
+
+Vanilluxe @ Leftovers
+Ability: Ice Body
+EVs: 1 HP
+Adamant Nature
+- Blizzard
+- Protect
+- Weather Ball
+- Hail
+
+Weavile @ Focus Sash
+Ability: Pressure
+EVs: 1 HP
+Adamant Nature
+- Night Slash
+- Ice Shard
+- Fake Out
+- Brick Break
+
+Dewgong @ Life Orb
+Ability: Thick Fat
+EVs: 1 HP
+Serious Nature
+- Aqua Jet
+- Frost Breath
+- Drill Run
+- Fake Out
+
+Walrein @ Expert Belt
+Ability: Ice Body
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Aqua Tail
+- Super Fang
+- Avalanche
+

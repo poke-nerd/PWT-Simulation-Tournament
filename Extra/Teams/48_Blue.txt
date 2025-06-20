@@ -1,0 +1,55 @@
+48_Blue
+Aerodactyl @ Choice Band
+Ability: Pressure
+EVs: 1 HP
+Serious Nature
+- Stone Edge
+- Earthquake
+- Ice Fang
+- Fire Blast
+
+Exeggutor @ Life Orb
+Ability: Chlorophyll
+EVs: 1 HP
+Serious Nature
+- Leaf Storm
+- Wood Hammer
+- Zen Headbutt
+- Leech Seed
+
+Gyarados @ King's Rock
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Waterfall
+- Earthquake
+- Ice Fang
+- Outrage
+
+Alakazam @ Focus Sash
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Focus Blast
+- Shadow Ball
+- Reflect
+
+Arcanine @ Expert Belt
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Flare Blitz
+- Close Combat
+- Wild Charge
+- Extreme Speed
+
+Machamp @ White Herb
+Ability: No Guard
+EVs: 1 HP
+Adamant Nature
+- Superpower
+- Stone Edge
+- Fire Punch
+- Bullet Punch
+

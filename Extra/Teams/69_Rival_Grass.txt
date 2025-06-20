@@ -1,0 +1,55 @@
+69_Rival_Grass
+Unfezant @ Scope Lens
+Ability: Big Pecks
+EVs: 1 HP
+Adamant Nature
+- Giga Impact
+- Aerial Ace
+- U-turn
+- Swagger
+
+Bouffalant @ Muscle Band
+Ability: Reckless
+EVs: 1 HP
+Adamant Nature
+- Head Charge
+- Wild Charge
+- Megahorn
+- Earthquake
+
+Flygon @ Dragon Gem
+Ability: Levitate
+EVs: 1 HP
+Serious Nature
+- Earthquake
+- Fire Blast
+- Draco Meteor
+- Stone Edge
+
+Eelektross @ Leftovers
+Ability: Levitate
+EVs: 1 HP
+Adamant Nature
+- Wild Charge
+- Flamethrower
+- Dragon Claw
+- Crunch
+
+Simisear @ Salac Berry
+Ability: Gluttony
+EVs: 1 HP
+Serious Nature
+- Rock Slide
+- Focus Blast
+- Acrobatics
+- Flamethrower
+
+Serperior @ Focus Sash
+Ability: Overgrow
+EVs: 1 HP
+Serious Nature
+- Leaf Storm
+- Leaf Blade
+- Dragon Tail
+- Coil
+

@@ -1,0 +1,55 @@
+27_Chuck
+Poliwrath @ Sitrus Berry
+Ability: Water Absorb
+EVs: 1 HP
+Adamant Nature
+- Waterfall
+- Belly Drum
+- Rock Slide
+- Hypnosis
+
+Machamp @ Choice Band
+Ability: No Guard
+EVs: 1 HP
+Adamant Nature
+- Dynamic Punch
+- Stone Edge
+- Ice Punch
+- Earthquake
+
+Hitmontop @ Wide Lens
+Ability: Technician
+EVs: 1 HP
+Adamant Nature
+- Mach Punch
+- Feint
+- Triple Kick
+- Bullet Punch
+
+Hitmonchan @ Leftovers
+Ability: Iron Fist
+EVs: 1 HP
+Adamant Nature
+- Drain Punch
+- Thunderpunch
+- Ice Punch
+- Double Team
+
+Hitmonlee @ Life Orb
+Ability: Reckless
+EVs: 1 HP
+Adamant Nature
+- High Jump Kick
+- Fake Out
+- Bulldoze
+- Stone Edge
+
+Conkeldurr @ Fighting Gem
+Ability: Guts
+EVs: 1 HP
+Adamant Nature
+- Drain Punch
+- Mach Punch
+- Rock Slide
+- Earthquake
+

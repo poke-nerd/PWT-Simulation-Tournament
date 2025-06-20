@@ -1,0 +1,55 @@
+14_Bianca
+Musharna @ Leftovers
+Ability: Synchronize
+EVs: 1 HP
+Modest Nature
+- Calm Mind
+- Stored Power
+- Moonlight
+- Shadow Ball
+
+Samurott @ Zoom Lens
+Ability: Torrent
+EVs: 1 HP
+Serious Nature
+- Blizzard
+- Aqua Jet
+- Hydro Pump
+- Megahorn
+
+Emboar @ Life Orb
+Ability: Blaze
+EVs: 1 HP
+Serious Nature
+- Scald
+- Superpower
+- Overheat
+- Grass Knot
+
+Serperior @ Light Clay
+Ability: Overgrow
+EVs: 1 HP
+Modest Nature
+- Light Screen
+- Glare
+- Leaf Storm
+- Reflect
+
+Stoutland @ Chople Berry
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Return
+- Wild Charge
+- Crunch
+- Ice Fang
+
+Haxorus @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Adamant Nature
+- Outrage
+- Earthquake
+- Aqua Tail
+- Guillotine
+

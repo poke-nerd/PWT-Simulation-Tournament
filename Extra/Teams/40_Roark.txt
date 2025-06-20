@@ -1,0 +1,55 @@
+40_Roark
+Rampardos @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Superpower
+- Earthquake
+- Avalanche
+
+Probopass @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Modest Nature
+- Stealth Rock
+- Earth Power
+- Discharge
+- Pain Split
+
+Archeops @ Life Orb
+Ability: Defeatist
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Earthquake
+- Focus Blast
+- Quick Attack
+
+Crustle @ Power Herb
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Rock Slide
+- X-scissor
+- Solarbeam
+- Shell Smash
+
+Golem @ Choice Band
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Stone Edge
+- Earthquake
+- Sucker Punch
+- Explosion
+
+Relicanth @ Liechi Berry
+Ability: Rock Head
+EVs: 1 HP
+Adamant Nature
+- Head Smash
+- Waterfall
+- Rock Polish
+- Yawn
+

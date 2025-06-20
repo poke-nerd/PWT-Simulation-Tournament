@@ -1,0 +1,55 @@
+04_Elesa
+Zebstrika @ Life Orb
+Ability: Motor Drive
+EVs: 1 HP
+Adamant Nature
+- Wild Charge
+- Overheat
+- Return
+- Quick Attack
+
+Ampharos @ Shuca Berry
+Ability: Static
+EVs: 1 HP
+Modest Nature
+- Discharge
+- Signal Beam
+- Power Gem
+- Focus Blast
+
+Luxray @ Expert Belt
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Wild Charge
+- Fire Fang
+- Ice Fang
+- Quick Attack
+
+Emolga @ Flying Gem
+Ability: Static
+EVs: 1 HP
+Adamant Nature
+- U-turn
+- Wild Charge
+- Acrobatics
+- Charm
+
+Eelektross @ Choice Band
+Ability: Levitate
+EVs: 1 HP
+Adamant Nature
+- Thunder Punch
+- Fire Punch
+- Dragon Claw
+- Brick Break
+
+Stunfisk @ Sitrus Berry
+Ability: Static
+EVs: 1 HP
+Modest Nature
+- Discharge
+- Earth Power
+- Scald
+- Foul Play
+

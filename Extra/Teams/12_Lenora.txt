@@ -1,0 +1,55 @@
+12_Lenora
+Watchog @ Focus Sash
+Ability: Keen Eye
+EVs: 1 HP
+Adamant Nature
+- Super Fang
+- Flail
+- Confuse Ray
+- Hypnosis
+
+Cinccino @ Life Orb
+Ability: Cute Charm
+EVs: 1 HP
+Modest Nature
+- Swift
+- Focus Blast
+- Grass Knot
+- Thunderbolt
+
+Braviary @ Power Herb
+Ability: Sheer Force
+EVs: 1 HP
+Adamant Nature
+- Sky Attack
+- Superpower
+- U-turn
+- Tailwind
+
+Sawsbuck @ Choice Scarf
+Ability: Chlorophyll
+EVs: 1 HP
+Adamant Nature
+- Return
+- Horn Leech
+- Megahorn
+- Wild Charge
+
+Kangaskhan @ Chople Berry
+Ability: Scrappy
+EVs: 1 HP
+Adamant Nature
+- Fake Out
+- Ice Punch
+- Hammer Arm
+- Sucker Punch
+
+Lickilicky @ Expert Belt
+Ability: Own Tempo
+EVs: 1 HP
+Modest Nature
+- Flamethrower
+- Ice Beam
+- Surf
+- Thunderbolt
+

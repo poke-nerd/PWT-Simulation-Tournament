@@ -1,0 +1,55 @@
+06_Skyla
+Swanna @ Focus Sash
+Ability: Keen Eye
+EVs: 1 HP
+Modest Nature
+- Hurricane
+- Scald
+- Ice Beam
+- Tailwind
+
+Jumpluff @ Flying Gem
+Ability: Chlorophyll
+EVs: 1 HP
+Adamant Nature
+- Sleep Powder
+- Acrobatics
+- Bullet Seed
+- U-turn
+
+Drifblim @ Expert Belt
+Ability: Aftermath
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Icy Wind
+
+Mandibuzz @ Salac Berry
+Ability: Overcoat
+EVs: 1 HP
+Modest Nature
+- Dark Pulse
+- Air Slash
+- Nasty Plot
+- Roost
+
+Archeops @ Sitrus Berry
+Ability: Defeatist
+EVs: 1 HP
+Adamant Nature
+- Acrobatics
+- Stone Edge
+- Earthquake
+- Dragon Claw
+
+Braviary @ White Herb
+Ability: Sheer Force
+EVs: 1 HP
+Adamant Nature
+- Brave Bird
+- Superpower
+- Rock Slide
+- U-turn
+

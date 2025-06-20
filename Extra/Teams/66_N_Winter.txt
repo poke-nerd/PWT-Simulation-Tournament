@@ -1,0 +1,55 @@
+66_N_Winter
+Abomasnow @ Life Orb
+Ability: Snow Warning
+EVs: 1 HP
+Serious Nature
+- Blizzard
+- Wood Hammer
+- Earthquake
+- Grass Whistle
+
+Vanilluxe @ Icy Rock
+Ability: Ice Body
+EVs: 1 HP
+Modest Nature
+- Blizzard
+- Flash Cannon
+- Signal Beam
+- Hail
+
+Cloyster
+Ability: Skill Link
+EVs: 1 HP
+Serious Nature
+- Icicle Spear
+- Hydro Pump
+- Ice Shard
+- Shell Smash
+
+Mamoswine
+Ability: Oblivious
+EVs: 1 HP
+Serious Nature
+- Earthquake
+- Ice Shard
+- Blizzard
+- Stone Edge
+
+Froslass (F) @ Icy Rock
+Ability: Snow Cloak
+EVs: 1 HP
+Modest Nature
+- Blizzard
+- Shadow Ball
+- Psychic
+- Hail
+
+Glaceon
+Ability: Snow Cloak
+EVs: 1 HP
+Modest Nature
+- Blizzard
+- Shadow Ball
+- Signal Beam
+- Attract
+

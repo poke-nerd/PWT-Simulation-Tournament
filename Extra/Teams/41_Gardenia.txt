@@ -1,0 +1,55 @@
+41_Gardenia
+Roserade @ Choice Scarf
+Ability: Poison Point
+EVs: 1 HP
+Modest Nature
+- Petal Dance
+- Shadow Ball
+- Weather Ball
+- Sludge Bomb
+
+Tropius @ Heat Rock
+Ability: Chlorophyll
+EVs: 1 HP
+Modest Nature
+- Solar Beam
+- Air Slash
+- Synthesis
+- Sunny Day
+
+Breloom @ Focus Sash
+Ability: Effect Spore
+EVs: 1 HP
+Adamant Nature
+- Spore
+- Drain Punch
+- Mach Punch
+- Stone Edge
+
+Tangrowth @ Salac Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Serious Nature
+- Power Whip
+- Focus Blast
+- Sludge Bomb
+- Earthquake
+
+Leafeon @ Yache Berry
+Ability: Leaf Guard
+EVs: 1 HP
+Adamant Nature
+- Leaf Blade
+- X-scissor
+- Quick Attack
+- Swords Dance
+
+Torterra @ Choice Band
+Ability: Overgrow
+EVs: 1 HP
+Adamant Nature
+- Wood Hammer
+- Earthquake
+- Outrage
+- Stone Edge
+

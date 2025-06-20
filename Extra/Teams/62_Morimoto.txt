@@ -1,0 +1,55 @@
+62_Morimoto
+Liepard
+Ability: Limber
+EVs: 1 HP
+Adamant Nature
+- Sucker Punch
+- Night Slash
+- Fake Out
+- Crunch
+
+Simipour @ Petaya Berry
+Ability: Gluttony
+EVs: 1 Atk
+Serious Nature
+- Surf
+- Payback
+- Acrobatics
+- Crunch
+
+Simisear @ Petaya Berry
+Ability: Gluttony
+EVs: 1 HP
+Serious Nature
+- Flamethrower
+- Payback
+- Acrobatics
+- Crunch
+
+Simisage @ Petaya Berry
+Ability: Gluttony
+EVs: 1 HP
+Serious Nature
+- Energy Ball
+- Payback
+- Acrobatics
+- Crunch
+
+Swoobat
+Ability: Unaware
+EVs: 1 HP
+Modest Nature
+- Psychic
+- Endeavor
+- Air Slash
+- Psyshock
+
+Zebstrika
+Ability: Lightning Rod
+EVs: 1 HP
+Adamant Nature
+- Wild Charge
+- Pursuit
+- Giga Impact
+- Flame Charge
+

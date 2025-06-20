@@ -1,0 +1,55 @@
+07_Drayden
+Haxorus @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Adamant Nature
+- Outrage
+- Earthquake
+- Brick Break
+- Dragon Dance
+
+Druddigon @ Rocky Helmet
+Ability: Rough Skin
+EVs: 1 HP
+Adamant Nature
+- Dragon Tail
+- Fire Fang
+- Glare
+- Rest
+
+Hydreigon @ Choice Specs
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Dragon Pulse
+- Dark Pulse
+- Fire Blast
+- Focus Blast
+
+Flygon @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Earth Power
+- Draco Meteor
+- Fire Blast
+- U-turn
+
+Altaria @ Yache Berry
+Ability: Natural Cure
+EVs: 1 HP
+Modest Nature
+- Draco Meteor
+- Roost
+- Perish Song
+- Cotton Guard
+
+Salamence @ White Herb
+Ability: Intimidate
+EVs: 1 HP
+Modest Nature
+- Draco Meteor
+- Hydro Pump
+- Fire Blast
+- Tailwind
+

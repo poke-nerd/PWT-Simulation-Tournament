@@ -1,0 +1,55 @@
+09_Chili
+Simisear @ Fire Gem
+Ability: Gluttony
+EVs: 1 HP
+Serious Nature
+- Overheat
+- Low Kick
+- Acrobatics
+- Crunch
+
+Camerupt @ Shuca Berry
+Ability: Solid Rock
+EVs: 1 HP
+Serious Nature
+- Overheat
+- Stone Edge
+- Earthquake
+- Explosion
+
+Heatmor @ Focus Sash
+Ability: Flash Fire
+EVs: 1 HP
+Serious Nature
+- Fire Blast
+- Sucker Punch
+- Focus Blast
+- Sunny Day
+
+Darmanitan @ Life Orb
+Ability: Sheer Force
+EVs: 1 HP
+Adamant Nature
+- Flare Blitz
+- Hammer Arm
+- Stone Edge
+- U-turn
+
+Arcanine @ Power Herb
+Ability: Intimidate
+EVs: 1 HP
+Serious Nature
+- Overheat
+- Dragon Pulse
+- Solarbeam
+- Extremespeed
+
+Emboar @ Expert Belt
+Ability: Blaze
+EVs: 1 HP
+Adamant Nature
+- Flare Blitz
+- Head Smash
+- Hammer Arm
+- Wild Charge
+

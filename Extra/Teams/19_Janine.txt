@@ -1,0 +1,55 @@
+19_Janine
+Venomoth @ Wide Lens
+Ability: Tinted Lens
+EVs: 1 HP
+Modest Nature
+- Quiver Dance
+- Sleep Powder
+- Bug Buzz
+- Psychic
+
+Weezing @ Rocky Helmet
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Thunderbolt
+- Will-o-wisp
+- Sludge Bomb
+- Flamethrower
+
+Nidoqueen @ Life Orb
+Ability: Poison Point
+EVs: 1 HP
+Modest Nature
+- Sludge Wave
+- Ice Beam
+- Earth Power
+- Thunderbolt
+
+Crobat @ Black Sludge
+Ability: Inner Focus
+EVs: 1 HP
+Adamant Nature
+- Brave Bird
+- Hypnosis
+- Toxic
+- Protect
+
+Roserade @ Leftovers
+Ability: Poison Point
+EVs: 1 HP
+Modest Nature
+- Leaf Storm
+- Sleep Powder
+- Substitute
+- Leech Seed
+
+Tentacruel @ Chesto Berry
+Ability: Clear Body
+EVs: 1 HP
+Modest Nature
+- Sludge Bomb
+- Scald
+- Ice Beam
+- Rest
+

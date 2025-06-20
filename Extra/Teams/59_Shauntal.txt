@@ -1,0 +1,55 @@
+59_Shauntal
+Cofagrigus @ Leftovers
+Ability: Mummy
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Psychic
+- Will-O-Wisp
+- Energy Ball
+
+Gengar @ Expert Belt
+Ability: Cursed Body
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Focus Blast
+- Sludge Bomb
+- Dark Pulse
+
+Froslass (F) @ Wise Glasses
+Ability: Snow Cloak
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Psychic
+- Blizzard
+- Ice Shard
+
+Drifblim @ Flying Gem
+Ability: Unburden
+EVs: 1 HP
+Serious Nature
+- Shadow Ball
+- Psychic
+- Acrobatics
+- Thunder
+
+Golurk @ Muscle Band
+Ability: Iron Fist
+EVs: 1 HP
+Adamant Nature
+- Shadow Punch
+- Earthquake
+- Hammer Arm
+- Stone Edge
+
+Chandelure @ Choice Scarf
+Ability: Flame Body
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Psychic
+- Fire Blast
+- Energy Ball
+

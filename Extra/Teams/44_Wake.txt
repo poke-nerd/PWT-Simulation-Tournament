@@ -1,0 +1,55 @@
+44_Wake
+Floatzel @ Life Orb
+Ability: Swift Swim
+EVs: 1 HP
+Serious Nature
+- Aqua Jet
+- Ice Punch
+- Focus Blast
+- Bulk Up
+
+Empoleon @ Petaya Berry
+Ability: Torrent
+EVs: 1 HP
+Modest Nature
+- Hydro Pump
+- Blizzard
+- Grass Knot
+- Featherdance
+
+Ludicolo @ Leftovers
+Ability: Swift Swim
+EVs: 1 HP
+Modest Nature
+- Hydro Pump
+- Giga Drain
+- Focus Blast
+- Rain Dance
+
+Gastrodon @ Rindo Berry
+Ability: Storm Drain
+EVs: 1 HP
+Modest Nature
+- Surf
+- Earth Power
+- Blizzard
+- Counter
+
+Poliwrath @ Salac Berry
+Ability: Water Absorb
+EVs: 1 HP
+Adamant Nature
+- Waterfall
+- Focus Punch
+- Ice Punch
+- Hypnosis
+
+Gyarados @ Wacan Berry
+Ability: Intimidate
+EVs: 1 HP
+Adamant Nature
+- Aqua Tail
+- Earthquake
+- Outrage
+- Dragon Dance
+

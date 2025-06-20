@@ -1,0 +1,55 @@
+29_Pryce
+Mamoswine @ Focus Sash
+Ability: Snow Cloak
+EVs: 1 HP
+Adamant Nature
+- Earthquake
+- Ice Shard
+- Icicle Spear
+- Endeavor
+
+Jynx @ Psychic Gem
+Ability: Oblivious
+EVs: 1 HP
+Modest Nature
+- Blizzard
+- Psyshock
+- Focus Blast
+- Lovely Kiss
+
+Dewgong @ Lum Berry
+Ability: Thick Fat
+EVs: 1 HP
+Adamant Nature
+- Dive
+- Sheer Cold
+- Sleep Talk
+- Rest
+
+Cloyster @ King's Rock
+Ability: Skill Link
+EVs: 1 HP
+Adamant Nature
+- Icicle Spear
+- Shell Smash
+- Explosion
+- Rock Blast
+
+Lapras @ Chesto Berry
+Ability: Water Absorb
+EVs: 1 HP
+Modest Nature
+- Ice Beam
+- Surf
+- Thunderbolt
+- Rest
+
+Weavile @ Ice Gem
+Ability: Pressure
+EVs: 1 HP
+Adamant Nature
+- Ice Punch
+- Night Slash
+- Low Kick
+- Fake Out
+

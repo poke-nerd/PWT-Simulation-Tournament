@@ -1,0 +1,55 @@
+56_Marshal
+Throh (M) @ Focus Band
+Ability: Guts
+EVs: 1 HP
+Adamant Nature
+- Superpower
+- Earthquake
+- Stone Edge
+- Payback
+
+Sawk (M) @ Muscle Band
+Ability: Sturdy
+EVs: 1 HP
+Adamant Nature
+- Close Combat
+- Retaliate
+- Stone Edge
+- Poison Jab
+
+Machamp @ Expert Belt
+Ability: No Guard
+EVs: 1 HP
+Adamant Nature
+- Dynamic Punch
+- Stone Edge
+- Dual Chop
+- Thunder Punch
+
+Lucario @ Wise Glasses
+Ability: Inner Focus
+EVs: 1 HP
+Serious Nature
+- Aura Sphere
+- Dragon Pulse
+- Extreme Speed
+- Shadow Ball
+
+Mienshao @ Eject Button
+Ability: Regenerator
+EVs: 1 HP
+Adamant Nature
+- High Jump Kick
+- U-turn
+- Acrobatics
+- Fake Out
+
+Conkeldurr @ Flame Orb
+Ability: Sheer Force
+EVs: 1 HP
+Adamant Nature
+- Hammer Arm
+- Bulk Up
+- Stone Edge
+- Earthquake
+

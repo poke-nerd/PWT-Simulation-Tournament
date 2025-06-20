@@ -1,0 +1,55 @@
+42_Fantina
+Mismagius @ Salac Berry
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Psychic
+- Calm Mind
+- Pain Split
+
+Drifblim @ Flying Gem
+Ability: Unburden
+EVs: 1 HP
+Adamant Nature
+- Acrobatics
+- Will-o-wisp
+- Explosion
+- Sucker Punch
+
+Spiritomb @ Sitrus Berry
+Ability: Pressure
+EVs: 1 HP
+Serious Nature
+- Shadow Ball
+- Psychic
+- Sucker Punch
+- Nasty Plot
+
+Dusknoir @ Apicot Berry
+Ability: Pressure
+EVs: 1 HP
+Adamant Nature
+- Shadow Sneak
+- Curse
+- Pain Split
+- Will-o-wisp
+
+Jellicent @ Ghost Gem
+Ability: Cursed Body
+EVs: 1 HP
+Adamant Nature
+- Shadow Ball
+- Brine
+- Recover
+- Water Spout
+
+Gengar @ Focus Sash
+Ability: Levitate
+EVs: 1 HP
+Modest Nature
+- Shadow Ball
+- Thunderbolt
+- Nightmare
+- Hypnosis
+

@@ -117,15 +117,9 @@ PWT-Simulation-Tournament/
 ## Credits
 - Forked from [CRZShadow's Simulator](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator)
 - Built on top of [Pokémon Showdown](https://github.com/smogon/pokemon-showdown)
-- Tournament AI + analytics system by [poke-nerd](https://github.com/poke-nerd)
 
 ---
 
-## Community
-- YouTube: [@smithplayspokemon](https://www.youtube.com/@smithplayspokemon)
-- Discord: https://discord.gg/Wupx8tHRVS
-
----
 
 ## Future Plans
 - Export to HuggingFace or Kaggle

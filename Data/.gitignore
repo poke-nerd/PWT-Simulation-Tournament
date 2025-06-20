@@ -1,0 +1,5 @@
+/WorkerFiles/*
+!/WorkerFiles/.gitkeep
+/WorkerOutputs/*
+!/WorkerOutputs/.gitkeep
+!.gitignore

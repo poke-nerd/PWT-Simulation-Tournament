@@ -1,6 +1,6 @@
 # Ultimate Pokémon World Tournament Simulator
 
-Built upon the foundation laid by [CRZShadow](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator), this project expands and refines the tournament simulation concept with enhanced tools, AI, and analytics.
+Built upon the foundation laid by [CRZShadows](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator), this project expands and refines the tournament simulation concept with enhanced tools, AI, and analytics.
 
 Welcome to the open-source AI tournament engine for simulating large-scale Pokémon tournaments between custom trainer teams across all generations. This project extends [Pokémon Showdown](https://github.com/smogon/pokemon-showdown) with custom AI, ranking models, and powerful statistical analysis tools. It is designed to run, parse, and evaluate tens of thousands of battles programmatically.
 
@@ -115,7 +115,7 @@ PWT-Simulation-Tournament/
 ---
 
 ## Credits
-- Forked from [CRZShadow's Simulator](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator)
+- Forked from [CRZShadow's Simulators](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator)
 - Built on top of [Pokémon Showdown](https://github.com/smogon/pokemon-showdown)
 
 ---

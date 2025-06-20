@@ -1,0 +1,3942 @@
+| Stoutland @ Focus Sash
+Ability: Scrappy
+EVs: 1 HP
+Level: 50
+- Return
+- Crunch
+- Ice Fang
+- Reversal
+
+| Porygon-Z @ Chople Berry
+Ability: Download
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Psychic
+- Signal Beam
+- Thunder
+
+| Cinccino @ King's Rock
+Ability: Skill Link
+EVs: 1 HP
+Level: 50
+- Tail Slap
+- Rock Blast
+- Bullet Seed
+- Aqua Tail
+
+| Lickilicky @ Expert Belt
+Ability: Cloud Nine
+EVs: 1 HP
+Level: 50
+- Hammer Arm
+- Power Whip
+- Thunder
+- Ice Punch
+
+| Castform @ Lum Berry
+Ability: Forecast
+EVs: 1 HP
+Level: 50
+- Weather Ball
+- Ice Beam
+- Rain Dance
+- Thunder
+
+| Bouffalant @ Leftovers
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Head Charge
+- Megahorn
+- Wild Charge
+- Revenge
+
+| Scolipede @ Choice Scarf
+Ability: Swarm
+EVs: 1 HP
+Level: 50
+- Poison Jab
+- Megahorn
+- Earthquake
+- Rock Slide
+
+| Toxicroak @ Focus Sash
+Ability: Poison Touch
+EVs: 1 HP
+Level: 50
+- Poison Jab
+- Swords Dance
+- Drain Punch
+- Protect
+
+| Garbodor @ Expert Belt
+Ability: Aftermath
+EVs: 1 HP
+Level: 50
+- Psychic
+- Thunderbolt
+- Focus Blast
+- Protect
+
+| Crobat @ Psychic Gem
+Ability: Inner Focus
+EVs: 1 HP
+Level: 50
+- Cross Poison
+- Zen Headbutt
+- Tailwind
+- Brave Bird
+
+| Drapion @ Scope Lens
+Ability: Sniper
+EVs: 1 HP
+Level: 50
+- Cross Poison
+- Night Slash
+- Ice Fang
+- Protect
+
+| Amoonguss @ Black Sludge
+Ability: Regenerator
+EVs: 1 HP
+Level: 50
+- Foul Play
+- Spore
+- Giga Drain
+- Protect
+
+| Leavanny @ Focus Sash
+Ability: Swarm
+EVs: 1 HP
+Level: 50
+- X-scissor
+- Leaf Blade
+- Aerial Ace
+- Swords Dance
+
+| Vespiquen @ Leftovers
+Ability: Pressure
+EVs: 1 HP
+Level: 50
+- Attack Order
+- Defend Order
+- Roost
+- Toxic
+
+| Crustle @ Salac Berry
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- X-scissor
+- Rock Blast
+- Earthquake
+- Shell Smash
+
+| Heracross @ Choice Scarf
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Megahorn
+- Close Combat
+- Shadow Claw
+- Stone Edge
+
+| Accelgor @ BrightPowder
+Ability: Sticky Hold
+EVs: 1 HP
+Level: 50
+- Bug Buzz
+- Focus Blast
+- Giga Drain
+- Double Team
+
+| Durant @ Wide Lens
+Ability: Swarm
+EVs: 1 HP
+Level: 50
+- X-scissor
+- Iron Head
+- Stone Edge
+- Guillotine
+
+| Zebstrika @ Life Orb
+Ability: Motor Drive
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Overheat
+- Return
+- Quick Attack
+
+| Ampharos @ Shuca Berry
+Ability: Static
+EVs: 1 HP
+Level: 50
+- Discharge
+- Signal Beam
+- Power Gem
+- Focus Blast
+
+| Luxray @ Expert Belt
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Fire Fang
+- Ice Fang
+- Quick Attack
+
+| Emolga @ Flying Gem
+Ability: Static
+EVs: 1 HP
+Level: 50
+- U-turn
+- Wild Charge
+- Acrobatics
+- Charm
+
+| Eelektross @ Choice Band
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Thunderpunch
+- Fire Punch
+- Dragon Claw
+- Brick Break
+
+| Stunfisk @ Sitrus Berry
+Ability: Static
+EVs: 1 HP
+Level: 50
+- Discharge
+- Earth Power
+- Scald
+- Foul Play
+
+| Excadrill @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- Drill Run
+- Rock Slide
+- Submission
+- Swords Dance
+
+| Flygon @ Liechi Berry
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Outrage
+- Earth Power
+- Fire Blast
+- Stone Edge
+
+| Krookodile @ Choice Band
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Fire Fang
+- Stone Edge
+- Aqua Tail
+
+| Seismitoad @ Life Orb
+Ability: Water Absorb
+EVs: 1 HP
+Level: 50
+- Earth Power
+- Hydro Pump
+- Focus Blast
+- Grass Knot
+
+| Mamoswine @ Ice Gem
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Ice Shard
+- Stone Edge
+- Fissure
+
+| Golurk @ Leftovers
+Ability: Iron Fist
+EVs: 1 HP
+Level: 50
+- Substitute
+- Shadow Punch
+- Earthquake
+- Focus Punch
+
+| Swanna @ Focus Sash
+Ability: Keen Eye
+EVs: 1 HP
+Level: 50
+- Hurricane
+- Scald
+- Ice Beam
+- Tailwind
+
+| Jumpluff @ Flying Gem
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Sleep Powder
+- Acrobatics
+- Bullet Seed
+- U-turn
+
+| Drifblim @ Expert Belt
+Ability: Aftermath
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Icy Wind
+
+| Mandibuzz @ Salac Berry
+Ability: Overcoat
+EVs: 1 HP
+Level: 50
+- Dark Pulse
+- Air Slash
+- Nasty Plot
+- Roost
+
+| Archeops @ Sitrus Berry
+Ability: Defeatist
+EVs: 1 HP
+Level: 50
+- Acrobatics
+- Stone Edge
+- Earthquake
+- Dragon Claw
+
+| Braviary @ White Herb
+Ability: Defiant
+EVs: 1 HP
+Level: 50
+- Brave Bird
+- Superpower
+- Rock Slide
+- U-turn
+
+| Haxorus @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- Outrage
+- Earthquake
+- Brick Break
+- Dragon Dance
+
+| Druddigon @ Rocky Helmet
+Ability: Rough Skin
+EVs: 1 HP
+Level: 50
+- Dragon Tail
+- Fire Fang
+- Glare
+- Rest
+
+| Hydreigon @ Choice Specs
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Dragon Pulse
+- Dark Pulse
+- Fire Blast
+- Focus Blast
+
+| Flygon @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Earth Power
+- Draco Meteor
+- Fire Blast
+- U-turn
+
+| Altaria @ Yache Berry
+Ability: Natural Cure
+EVs: 1 HP
+Level: 50
+- Draco Meteor
+- Roost
+- Perish Song
+- Cotton Guard
+
+| Salamence @ White Herb
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Draco Meteor
+- Hydro Pump
+- Fire Blast
+- Tailwind
+
+| Jellicent @ Expert Belt
+Ability: Cursed Body
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Energy Ball
+- Shadow Ball
+- Psychic
+
+| Carracosta @ Lum Berry
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Waterfall
+- Rock Slide
+- Aqua Jet
+- Shell Smash
+
+| Starmie @ Focus Sash
+Ability: Natural Cure
+EVs: 1 HP
+Level: 50
+- Scald
+- Light Screen
+- Reflect
+- Thunderbolt
+
+| Quagsire @ Rindo Berry
+Ability: Unaware
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Earthquake
+- Waterfall
+- Counter
+
+| Cloyster @ King's Rock
+Ability: Skill Link
+EVs: 1 HP
+Level: 50
+- Ice Shard
+- Rock Blast
+- Icicle Spear
+- Shell Smash
+
+| Wailord @ Choice Scarf
+Ability: Water Veil
+EVs: 1 HP
+Level: 50
+- Water Spout
+- Fissure
+- Blizzard
+- Bounce
+
+| Simisear @ Fire Gem
+Ability: Blaze
+EVs: 1 HP
+Level: 50
+- Overheat
+- Low Kick
+- Acrobatics
+- Crunch
+
+| Camerupt @ Shuca Berry
+Ability: Solid Rock
+EVs: 1 HP
+Level: 50
+- Overheat
+- Stone Edge
+- Earthquake
+- Explosion
+
+| Heatmor @ Focus Sash
+Ability: Flash Fire
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Sucker Punch
+- Focus Blast
+- Sunny Day
+
+| Darmanitan @ Life Orb
+Ability: Sheer Force
+EVs: 1 HP
+Level: 50
+- Flare Blitz
+- Hammer Arm
+- Stone Edge
+- U-turn
+
+| Arcanine @ Power Herb
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Overheat
+- Dragon Pulse
+- Solarbeam
+- Extremespeed
+
+| Emboar @ Expert Belt
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Flare Blitz
+- Head Smash
+- Hammer Arm
+- Wild Charge
+
+| Simipour @ Water Gem
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Low Kick
+- Acrobatics
+- Crunch
+
+| Crawdaunt @ Choice Scarf
+Ability: Adaptability
+EVs: 1 HP
+Level: 50
+- Crunch
+- Waterfall
+- Brick Break
+- Guillotine
+
+| Samurott @ Leftovers
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Razor Shell
+- Megahorn
+- Aqua Jet
+- Revenge
+
+| Azumarill @ Choice Band
+Ability: Huge Power
+EVs: 1 HP
+Level: 50
+- Aqua Jet
+- Aqua Tail
+- Superpower
+- Giga Impact
+
+| Slowking @ Expert Belt
+Ability: Own Tempo
+EVs: 1 HP
+Level: 50
+- Psychic
+- Blizzard
+- Fire Blast
+- Nasty Plot
+
+| Seismitoad @ Rindo Berry
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Poison Jab
+- Earth Power
+- Rain Dance
+
+| Simisage @ Grass Gem
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Seed Bomb
+- Low Kick
+- Acrobatics
+- Crunch
+
+| Ferrothorn @ Choice Band
+Ability: Iron Barbs
+EVs: 1 HP
+Level: 50
+- Power Whip
+- Gyro Ball
+- Bulldoze
+- Explosion
+
+| Serperior @ Leftovers
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Leech Seed
+- Protect
+- Aerial Ace
+- Leaf Blade
+
+| Jumpluff @ Focus Sash
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Leech Seed
+- Cotton Guard
+- Giga Drain
+- Sleep Powder
+
+| Whimsicott @ Mental Herb
+Ability: Prankster
+EVs: 1 HP
+Level: 50
+- Giga Drain
+- Substitute
+- Hurricane
+- Leech Seed
+
+| Lilligant @ Miracle Seed
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Petal Dance
+- Quiver Dance
+- Sleep Powder
+- Dream Eater
+
+| Watchog @ Focus Sash
+Ability: Analytic
+EVs: 1 HP
+Level: 50
+- Super Fang
+- Flail
+- Confuse Ray
+- Hypnosis
+
+| Cinccino @ Life Orb
+Ability: Cute Charm
+EVs: 1 HP
+Level: 50
+- Swift
+- Focus Blast
+- Grass Knot
+- Thunderbolt
+
+| Braviary @ Power Herb
+Ability: Defiant
+EVs: 1 HP
+Level: 50
+- Sky Attack
+- Superpower
+- U-turn
+- Tailwind
+
+| Sawsbuck @ Choice Scarf
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Return
+- Horn Leech
+- Megahorn
+- Wild Charge
+
+| Kangaskhan @ Chople Berry
+Ability: Scrappy
+EVs: 1 HP
+Level: 50
+- Fake Out
+- Ice Punch
+- Hammer Arm
+- Sucker Punch
+
+| Lickilicky @ Expert Belt
+Ability: Own Tempo
+EVs: 1 HP
+Level: 50
+- Flamethrower
+- Ice Beam
+- Surf
+- Thunderbolt
+
+| Cryogonal @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Flash Cannon
+- Sheer Cold
+- Ice Shard
+
+| Beartic @ BrightPowder
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Icicle Crash
+- Focus Punch
+- Substitute
+- Swords Dance
+
+| Vanilluxe @ Leftovers
+Ability: Ice Body
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Protect
+- Weather Ball
+- Hail
+
+| Weavile @ Focus Sash
+Ability: Pickpocket
+EVs: 1 HP
+Level: 50
+- Night Slash
+- Ice Shard
+- Fake Out
+- Brick Break
+
+| Dewgong @ Life Orb
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Aqua Jet
+- Frost Breath
+- Drill Run
+- Fake Out
+
+| Walrein @ Expert Belt
+Ability: Ice Body
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Aqua Tail
+- Super Fang
+- Avalanche
+
+| Musharna @ Leftovers
+Ability: Synchronize
+EVs: 1 HP
+Level: 50
+- Calm Mind
+- Stored Power
+- Moonlight
+- Shadow Ball
+
+| Samurott @ Zoom Lens
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Aqua Jet
+- Hydro Pump
+- Megahorn
+
+| Emboar @ Life Orb
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Scald
+- Superpower
+- Overheat
+- Grass Knot
+
+| Serperior @ Light Clay
+Ability: Contrary
+EVs: 1 HP
+Level: 50
+- Light Screen
+- Glare
+- Leaf Storm
+- Reflect
+
+| Stoutland @ Chople Berry
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Return
+- Wild Charge
+- Crunch
+- Ice Fang
+
+| Haxorus @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- Outrage
+- Earthquake
+- Aqua Tail
+- Guillotine
+
+| Onix @ Eviolite
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Earthquake
+- Iron Head
+- Sandstorm
+
+| Golem @ Lum Berry
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Earthquake
+- Rock Polish
+- Sucker Punch
+
+| Kabutops @ Focus Sash
+Ability: Battle Armor
+EVs: 1 HP
+Level: 50
+- Waterfall
+- Rock Slide
+- X-scissor
+- Swords Dance
+
+| Tyranitar @ Chople Berry
+Ability: Sand Stream
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Payback
+- Thunderpunch
+- Ice Punch
+
+| Aerodactyl @ Choice Scarf
+Ability: Unnerve
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- Earthquake
+- Fire Fang
+- Ice Fang
+
+| Rhyperior @ Expert Belt
+Ability: Solid Rock
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Stone Edge
+- Megahorn
+- Avalanche
+
+| Starmie @ Choice Scarf
+Ability: Natural Cure
+EVs: 1 HP
+Level: 50
+- Grass Knot
+- Psychic
+- Thunderbolt
+- Ice Beam
+
+| Lanturn @ Sitrus Berry
+Ability: Volt Absorb
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Scald
+- Ice Beam
+- Toxic
+
+| Jellicent @ Leftovers
+Ability: Cursed Body
+EVs: 1 HP
+Level: 50
+- Recover
+- Surf
+- Shadow Ball
+- Will-o-wisp
+
+| Lapras @ Zoom Lens
+Ability: Shell Armor
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Blizzard
+- Ice Shard
+- Sheer Cold
+
+| Quagsire @ Focus Sash
+Ability: Unaware
+EVs: 1 HP
+Level: 50
+- Yawn
+- Waterfall
+- Earthquake
+- Rain Dance
+
+| Blastoise @ Salac Berry
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Outrage
+- Avalanche
+- Iron Defense
+
+| Raichu @ Life Orb
+Ability: Static
+EVs: 1 HP
+Level: 50
+- Volt Tackle
+- Fake Out
+- Focus Punch
+- Thunder Wave
+
+| Electrode @ Focus Sash
+Ability: Aftermath
+EVs: 1 HP
+Level: 50
+- Electro Ball
+- Signal Beam
+- Thunder Wave
+- Double Team
+
+| Magnezone @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Discharge
+- Flash Cannon
+- Signal Beam
+- Magnet Rise
+
+| Electivire @ Expert Belt
+Ability: Motor Drive
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Earthquake
+- Cross Chop
+- Ice Punch
+
+| Jolteon @ Shuca Berry
+Ability: Volt Absorb
+EVs: 1 HP
+Level: 50
+- Quick Attack
+- Iron Tail
+- Double Team
+- Volt Switch
+
+| Lanturn @ Wide Lens
+Ability: Volt Absorb
+EVs: 1 HP
+Level: 50
+- Thunder
+- Hydro Pump
+- Blizzard
+- Signal Beam
+
+| Vileplume @ Black Sludge
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Drain Punch
+- Swords Dance
+- Synthesis
+- Sleep Powder
+
+| Venusaur @ Expert Belt
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Leaf Storm
+- Power Whip
+- Earthquake
+- Outrage
+
+| Cradily @ Leftovers
+Ability: Storm Drain
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Recover
+- Seed Bomb
+- Curse
+
+| Exeggutor @ Tanga Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Psychic
+- Psyshock
+- Leaf Storm
+- Ancientpower
+
+| Tangrowth @ Power Herb
+Ability: Regenerator
+EVs: 1 HP
+Level: 50
+- Solarbeam
+- Ancientpower
+- Focus Blast
+- Synthesis
+
+| Abomasnow @ Focus Sash
+Ability: Snow Warning
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Leech Seed
+- Protect
+- Sheer Cold
+
+| Venomoth @ Wide Lens
+Ability: Tinted Lens
+EVs: 1 HP
+Level: 50
+- Quiver Dance
+- Sleep Powder
+- Bug Buzz
+- Psychic
+
+| Weezing @ Rocky Helmet
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Will-o-wisp
+- Sludge Bomb
+- Flamethrower
+
+| Nidoqueen @ Life Orb
+Ability: Sheer Force
+EVs: 1 HP
+Level: 50
+- Sludge Wave
+- Ice Beam
+- Earth Power
+- Thunderbolt
+
+| Crobat @ Black Sludge
+Ability: Infiltrator
+EVs: 1 HP
+Level: 50
+- Brave Bird
+- Hypnosis
+- Toxic
+- Protect
+
+| Roserade @ Leftovers
+Ability: Poison Point
+EVs: 1 HP
+Level: 50
+- Leaf Storm
+- Sleep Powder
+- Substitute
+- Leech Seed
+
+| Tentacruel @ Chesto Berry
+Ability: Clear Body
+EVs: 1 HP
+Level: 50
+- Sludge Bomb
+- Scald
+- Ice Beam
+- Rest
+
+| Alakazam @ Kasib Berry
+Ability: Synchronize
+EVs: 1 HP
+Level: 50
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Charge Beam
+
+| Metagross @ Expert Belt
+Ability: Clear Body
+EVs: 1 HP
+Level: 50
+- Psychic
+- Shadow Ball
+- Signal Beam
+- Grass Knot
+
+| Exeggutor @ Tanga Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Psychic
+- Energy Ball
+- Sleep Powder
+- Dream Eater
+
+| Slowking @ Choice Specs
+Ability: Regenerator
+EVs: 1 HP
+Level: 50
+- Scald
+- Psychic
+- Shadow Ball
+- Focus Blast
+
+| Espeon @ Leftovers
+Ability: Magic Bounce
+EVs: 1 HP
+Level: 50
+- Psyshock
+- Signal Beam
+- Psychic
+- Calm Mind
+
+| Sigilyph @ Life Orb
+Ability: Magic Guard
+EVs: 1 HP
+Level: 50
+- Psychic
+- Air Slash
+- Ice Beam
+- Light Screen
+
+| Arcanine @ Focus Sash
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Overheat
+- Close Combat
+- Extremespeed
+- Bulldoze
+
+| Ninetales @ Charti Berry
+Ability: Drought
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Energy Ball
+- Psyshock
+- Will-o-wisp
+
+| Charizard @ Life Orb
+Ability: Solar Power
+EVs: 1 HP
+Level: 50
+- Flamethrower
+- Air Slash
+- Focus Blast
+- Dragon Pulse
+
+| Magmortar @ Choice Scarf
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Psychic
+- Thunderbolt
+- Rock Slide
+
+| Flareon @ Passho Berry
+Ability: Flash Fire
+EVs: 1 HP
+Level: 50
+- Superpower
+- Quick Attack
+- Overheat
+- Toxic
+
+| Rotom-Heat @ Flame Orb
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Trick
+- Overheat
+- Thunderbolt
+- Pain Split
+
+| Rhyperior @ Life Orb
+Ability: Solid Rock
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Rock Blast
+- Ice Punch
+- Hammer Arm
+
+| Hippowdon @ Quick Claw
+Ability: Sand Stream
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Crunch
+- Ice Fang
+- Stone Edge
+
+| Garchomp @ Choice Scarf
+Ability: Sand Veil
+EVs: 1 HP
+Level: 50
+- Outrage
+- Earthquake
+- Rock Slide
+- Brick Break
+
+| Krookodile @ Expert Belt
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Superpower
+- Fire Fang
+- Grass Knot
+
+| Nidoking @ Choice Specs
+Ability: Sheer Force
+EVs: 1 HP
+Level: 50
+- Earth Power
+- Ice Beam
+- Flamethrower
+- Thunderbolt
+
+| Gliscor @ Flying Gem
+Ability: Sand Veil
+EVs: 1 HP
+Level: 50
+- Acrobatics
+- Earthquake
+- Fire Fang
+- Tailwind
+
+| Pidgeot @ Life Orb
+Ability: Keen Eye
+EVs: 1 HP
+Level: 50
+- Return
+- Swagger
+- Double Team
+- Air Slash
+
+| Crobat @ Red Card
+Ability: Infiltrator
+EVs: 1 HP
+Level: 50
+- Super Fang
+- Taunt
+- Acrobatics
+- Confuse Ray
+
+| Aerodactyl @ Focus Sash
+Ability: Unnerve
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Ice Fang
+- Rock Slide
+- Protect
+
+| Honchkrow @ Choice Scarf
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Night Slash
+- Brave Bird
+- Heat Wave
+- Icy Wind
+
+| Xatu @ Leftovers
+Ability: Magic Bounce
+EVs: 1 HP
+Level: 50
+- Calm Mind
+- Psyshock
+- Stored Power
+- Roost
+
+| Swellow @ Flame Orb
+Ability: Guts
+EVs: 1 HP
+Level: 50
+- Facade
+- Protect
+- Endeavor
+- Aerial Ace
+
+| Scizor @ Sitrus Berry
+Ability: Technician
+EVs: 1 HP
+Level: 50
+- Bullet Punch
+- U-turn
+- Swords Dance
+- Acrobatics
+
+| Shuckle @ Rocky Helmet
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Power Split
+- Stone Edge
+- Earthquake
+- Toxic
+
+| Heracross @ Choice Band
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Megahorn
+- Stone Edge
+- Close Combat
+- Shadow Claw
+
+| Pinsir @ Life Orb
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- X-scissor
+- Bulldoze
+- Guillotine
+- Protect
+
+| Armaldo @ Quick Claw
+Ability: Battle Armor
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Stone Edge
+- X-scissor
+- Swords Dance
+
+| Yanmega @ Focus Sash
+Ability: Speed Boost
+EVs: 1 HP
+Level: 50
+- Protect
+- Bug Buzz
+- Air Slash
+- Giga Drain
+
+| Miltank @ Lum Berry
+Ability: Scrappy
+EVs: 1 HP
+Level: 50
+- Return
+- Zen Headbutt
+- Brick Break
+- Milk Drink
+
+| Blissey @ Leftovers
+Ability: Serene Grace
+EVs: 1 HP
+Level: 50
+- Softboiled
+- Flamethrower
+- Grass Knot
+- Toxic
+
+| Tauros @ Life Orb
+Ability: Sheer Force
+EVs: 1 HP
+Level: 50
+- Return
+- Earthquake
+- Rock Slide
+- Protect
+
+| Ambipom @ Focus Sash
+Ability: Technician
+EVs: 1 HP
+Level: 50
+- Fake Out
+- Double Hit
+- Low Sweep
+- Ice Punch
+
+| Ursaring @ Toxic Orb
+Ability: Guts
+EVs: 1 HP
+Level: 50
+- Facade
+- Swords Dance
+- Crunch
+- Rock Slide
+
+| Lopunny @ Chople Berry
+Ability: Cute Charm
+EVs: 1 HP
+Level: 50
+- Entrainment
+- Return
+- Low Kick
+- Encore
+
+| Gengar @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Focus Blast
+- Giga Drain
+- Thunderbolt
+
+| Mismagius @ Sitrus Berry
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Perish Song
+- Mean Look
+- Will-o-wisp
+- Confuse Ray
+
+| Banette @ Ghost Gem
+Ability: Cursed Body
+EVs: 1 HP
+Level: 50
+- Shadow Claw
+- Sucker Punch
+- Destiny Bond
+- Gunk Shot
+
+| Dusknoir @ Leftovers
+Ability: Pressure
+EVs: 1 HP
+Level: 50
+- Shadow Sneak
+- Will-o-wisp
+- Protect
+- Fire Punch
+
+| Chandelure @ Life Orb
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Overheat
+- Shadow Ball
+- Energy Ball
+- Psychic
+
+| Froslass @ Focus Sash
+Ability: Cursed Body
+EVs: 1 HP
+Level: 50
+- Ice Beam
+- Shadow Ball
+- Thunder Wave
+- Destiny Bond
+
+| Poliwrath @ Sitrus Berry
+Ability: Water Absorb
+EVs: 1 HP
+Level: 50
+- Waterfall
+- Belly Drum
+- Rock Slide
+- Hypnosis
+
+| Machamp @ Choice Band
+Ability: No Guard
+EVs: 1 HP
+Level: 50
+- Dynamicpunch
+- Stone Edge
+- Ice Punch
+- Earthquake
+
+| Hitmontop @ Wide Lens
+Ability: Technician
+EVs: 1 HP
+Level: 50
+- Mach Punch
+- Feint
+- Triple Kick
+- Bullet Punch
+
+| Hitmonchan @ Leftovers
+Ability: Iron Fist
+EVs: 1 HP
+Level: 50
+- Drain Punch
+- Thunderpunch
+- Ice Punch
+- Double Team
+
+| Hitmonlee @ Life Orb
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Hi Jump Kick
+- Fake Out
+- Bulldoze
+- Stone Edge
+
+| Conkeldurr @ Fighting Gem
+Ability: Iron Fist
+EVs: 1 HP
+Level: 50
+- Drain Punch
+- Mach Punch
+- Rock Slide
+- Earthquake
+
+| Steelix @ Rocky Helmet
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Gyro Ball
+- Earthquake
+- Stealth Rock
+- Curse
+
+| Magnezone @ Quick Claw
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Flash Cannon
+- Mirror Coat
+- Magnet Rise
+
+| Forretress @ Iron Ball
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Gyro Ball
+- Toxic
+- Explosion
+
+| Skarmory @ Leftovers
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Curse
+- Roost
+- Aerial Ace
+- Stealth Rock
+
+| Metagross @ Air Balloon
+Ability: Clear Body
+EVs: 1 HP
+Level: 50
+- Meteor Mash
+- Bullet Punch
+- Earthquake
+- Explosion
+
+| Lucario @ Life Orb
+Ability: Inner Focus
+EVs: 1 HP
+Level: 50
+- Extremespeed
+- Crunch
+- Aura Sphere
+- Stone Edge
+
+| Mamoswine @ Focus Sash
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Ice Shard
+- Icicle Spear
+- Endeavor
+
+| Jynx @ Psychic Gem
+Ability: Oblivious
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Psyshock
+- Focus Blast
+- Lovely Kiss
+
+| Dewgong @ Lum Berry
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Dive
+- Sheer Cold
+- Sleep Talk
+- Rest
+
+| Cloyster @ King's Rock
+Ability: Skill Link
+EVs: 1 HP
+Level: 50
+- Icicle Spear
+- Shell Smash
+- Explosion
+- Rock Blast
+
+| Lapras @ Chesto Berry
+Ability: Shell Armor
+EVs: 1 HP
+Level: 50
+- Ice Beam
+- Surf
+- Thunderbolt
+- Rest
+
+| Weavile @ Ice Gem
+Ability: Pickpocket
+EVs: 1 HP
+Level: 50
+- Ice Punch
+- Night Slash
+- Low Kick
+- Fake Out
+
+| Dragonite @ Yache Berry
+Ability: Multiscale
+EVs: 1 HP
+Level: 50
+- Draco Meteor
+- Earthquake
+- Extremespeed
+- Outrage
+
+| Kingdra @ Chesto Berry
+Ability: Sniper
+EVs: 1 HP
+Level: 50
+- Dragon Dance
+- Outrage
+- Waterfall
+- Rest
+
+| Altaria @ Leftovers
+Ability: Natural Cure
+EVs: 1 HP
+Level: 50
+- Cotton Guard
+- Toxic
+- Double Team
+- Fire Blast
+
+| Salamence @ Dragon Gem
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Draco Meteor
+- Outrage
+- Rock Slide
+- Earthquake
+
+| Druddigon @ Rocky Helmet
+Ability: Rough Skin
+EVs: 1 HP
+Level: 50
+- Revenge
+- Sucker Punch
+- Glare
+- Dragon Claw
+
+| Garchomp @ Focus Sash
+Ability: Rough Skin
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Dual Chop
+- Fire Fang
+- Swords Dance
+
+| Probopass @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Power Gem
+- Earth Power
+- Pain Split
+- Thunderbolt
+
+| Armaldo @ Lum Berry
+Ability: Battle Armor
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- Rock Polish
+- Earthquake
+- X-scissor
+
+| Cradily @ Leftovers
+Ability: Storm Drain
+EVs: 1 HP
+Level: 50
+- Toxic
+- Giga Drain
+- Amnesia
+- Rock Slide
+
+| Aggron @ Focus Sash
+Ability: Rock Head
+EVs: 1 HP
+Level: 50
+- Head Smash
+- Iron Head
+- Metal Burst
+- Avalanche
+
+| Carracosta @ Water Gem
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Waterfall
+- Shell Smash
+- Rock Slide
+- Aqua Jet
+
+| Golem @ Ground Gem
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Focus Punch
+- Protect
+- Earthquake
+- Fire Punch
+
+| Hariyama @ Chesto Berry
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Bulk Up
+- Rest
+- Revenge
+- Stone Edge
+
+| Scrafty @ Leftovers
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Bulk Up
+- Drain Punch
+- Dragon Tail
+- Amnesia
+
+| Breloom @ Focus Sash
+Ability: Effect Spore
+EVs: 1 HP
+Level: 50
+- Spore
+- Focus Punch
+- Seed Bomb
+- Stone Edge
+
+| Machamp @ Choice Band
+Ability: No Guard
+EVs: 1 HP
+Level: 50
+- Dynamicpunch
+- Stone Edge
+- Fire Punch
+- Earthquake
+
+| Mienshao @ Life Orb
+Ability: Regenerator
+EVs: 1 HP
+Level: 50
+- Hi Jump Kick
+- Fake Out
+- Aerial Ace
+- Drain Punch
+
+| Heracross @ Choice Scarf
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Megahorn
+- Close Combat
+- Stone Edge
+- Aerial Ace
+
+| Manectric @ Life Orb
+Ability: Lightningrod
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Flamethrower
+- Thunder Wave
+- Double Team
+
+| Magnezone @ Leftovers
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Toxic
+- Protect
+- Flash Cannon
+
+| Electrode @ Air Balloon
+Ability: Aftermath
+EVs: 1 HP
+Level: 50
+- Thunder
+- Signal Beam
+- Swagger
+- Thunder Wave
+
+| Rotom-Wash @ Wide Lens
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Thunder
+- Hydro Pump
+- Hex
+- Will-o-wisp
+
+| Ampharos @ Expert Belt
+Ability: Static
+EVs: 1 HP
+Level: 50
+- Fire Punch
+- Thunderpunch
+- Bulldoze
+- Brick Break
+
+| Raichu @ Focus Sash
+Ability: Lightningrod
+EVs: 1 HP
+Level: 50
+- Thunder
+- Focus Blast
+- Grass Knot
+- Swagger
+
+| Torkoal @ Leftovers
+Ability: Shell Armor
+EVs: 1 HP
+Level: 50
+- Overheat
+- Earthquake
+- Stone Edge
+- Yawn
+
+| Camerupt @ Passho Berry
+Ability: Solid Rock
+EVs: 1 HP
+Level: 50
+- Earth Power
+- Fissure
+- Will-o-wisp
+- Flamethrower
+
+| Chandelure @ Focus Sash
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Flamethrower
+- Flame Charge
+- Shadow Ball
+- Calm Mind
+
+| Blaziken @ Air Balloon
+Ability: Speed Boost
+EVs: 1 HP
+Level: 50
+- Hi Jump Kick
+- Earthquake
+- Flame Charge
+- Stone Edge
+
+| Houndoom @ Life Orb
+Ability: Flash Fire
+EVs: 1 HP
+Level: 50
+- Overheat
+- Sucker Punch
+- Flame Charge
+- Will-o-wisp
+
+| Magmortar @ Shuca Berry
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Thunderbolt
+- Flame Charge
+- Psychic
+
+| Slaking @ Eject Button
+Ability: Truant
+EVs: 1 HP
+Level: 50
+- Giga Impact
+- Night Slash
+- Earthquake
+- Hammer Arm
+
+| Ambipom @ Normal Gem
+Ability: Technician
+EVs: 1 HP
+Level: 50
+- Return
+- Acrobatics
+- Fake Out
+- Fire Punch
+
+| Bouffalant @ Life Orb
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Head Charge
+- Stone Edge
+- Megahorn
+- Revenge
+
+| Staraptor @ Choice Band
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Brave Bird
+- Close Combat
+- Quick Attack
+- Final Gambit
+
+| Exploud @ Expert Belt
+Ability: Scrappy
+EVs: 1 HP
+Level: 50
+- Hyper Voice
+- Fire Blast
+- Blizzard
+- Focus Blast
+
+| Sawsbuck @ Chesto Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Horn Leech
+- Return
+- Swords Dance
+- Rest
+
+| Altaria @ Power Herb
+Ability: Natural Cure
+EVs: 1 HP
+Level: 50
+- Sky Attack
+- Cotton Guard
+- Dragon Dance
+- Earthquake
+
+| Sigilyph @ Life Orb
+Ability: Magic Guard
+EVs: 1 HP
+Level: 50
+- Psychic
+- Air Slash
+- Ancientpower
+- Thunder Wave
+
+| Gyarados @ Leftovers
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Dragon Dance
+- Substitute
+- Waterfall
+- Ice Fang
+
+| Skarmory @ Rocky Helmet
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Whirlwind
+- Spikes
+- Steel Wing
+- Aerial Ace
+
+| Tropius @ Yache Berry
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Sunny Day
+- Air Slash
+- Solarbeam
+- Attract
+
+| Honchkrow @ Dark Gem
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Drill Peck
+- Tailwind
+- Sucker Punch
+- Icy Wind
+
+| Solrock @ Passho Berry
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- Zen Headbutt
+- Trick Room
+- Earthquake
+
+| Xatu @ Focus Sash
+Ability: Magic Bounce
+EVs: 1 HP
+Level: 50
+- Psychic
+- Light Screen
+- Shadow Ball
+- Trick Room
+
+| Bronzong @ Lum Berry
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Gyro Ball
+- Earthquake
+- Zen Headbutt
+- Trick Room
+
+| Reuniclus @ Life Orb
+Ability: Magic Guard
+EVs: 1 HP
+Level: 50
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Trick Room
+
+| Gallade @ Scope Lens
+Ability: Steadfast
+EVs: 1 HP
+Level: 50
+- Psycho Cut
+- Night Slash
+- Close Combat
+- Ice Punch
+
+| Claydol @ Kasib Berry
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Trick Room
+- Explosion
+- Psychic
+- Light Screen
+
+| Lunatone @ Expert Belt
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Grass Knot
+- Cosmic Power
+- Trick Room
+- Signal Beam
+
+| Xatu @ Focus Sash
+Ability: Magic Bounce
+EVs: 1 HP
+Level: 50
+- Pain Split
+- Zen Headbutt
+- U-turn
+- Trick Room
+
+| Bronzong @ Rocky Helmet
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Iron Head
+- Hypnosis
+- Earthquake
+- Trick Room
+
+| Gothitelle @ Leftovers
+Ability: Shadow Tag
+EVs: 1 HP
+Level: 50
+- Psychic
+- Shadow Ball
+- Calm Mind
+- Trick Room
+
+| Gardevoir @ Lum Berry
+Ability: Trace
+EVs: 1 HP
+Level: 50
+- Disable
+- Psychic
+- Will-o-wisp
+- Thunderbolt
+
+| Claydol @ Sitrus Berry
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Trick Room
+- Earth Power
+- Ice Beam
+- Psyshock
+
+| Kingdra @ Haban Berry
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Dragon Pulse
+- Ice Beam
+- Rain Dance
+
+| Walrein @ Leftovers
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Surf
+- Toxic
+- Super Fang
+- Sheer Cold
+
+| Crawdaunt @ Life Orb
+Ability: Adaptability
+EVs: 1 HP
+Level: 50
+- Crabhammer
+- Night Slash
+- Rain Dance
+- Guillotine
+
+| Whiscash @ Chesto Berry
+Ability: Oblivious
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Waterfall
+- Spark
+- Rest
+
+| Relicanth @ Damp Rock
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Rain Dance
+- Rock Slide
+- Waterfall
+- Earthquake
+
+| Politoed @ Wide Lens
+Ability: Drizzle
+EVs: 1 HP
+Level: 50
+- Hypnosis
+- Scald
+- Focus Blast
+- Ice Beam
+
+| Rampardos @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Superpower
+- Earthquake
+- Avalanche
+
+| Probopass @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Stealth Rock
+- Earth Power
+- Discharge
+- Pain Split
+
+| Archeops @ Life Orb
+Ability: Defeatist
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Earthquake
+- Focus Blast
+- Quick Attack
+
+| Crustle @ Power Herb
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- X-scissor
+- Solarbeam
+- Shell Smash
+
+| Golem @ Choice Band
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Earthquake
+- Sucker Punch
+- Explosion
+
+| Relicanth @ Liechi Berry
+Ability: Rock Head
+EVs: 1 HP
+Level: 50
+- Head Smash
+- Waterfall
+- Rock Polish
+- Yawn
+
+| Roserade @ Choice Scarf
+Ability: Poison Point
+EVs: 1 HP
+Level: 50
+- Petal Dance
+- Shadow Ball
+- Weather Ball
+- Sludge Bomb
+
+| Tropius @ Heat Rock
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Solarbeam
+- Air Slash
+- Synthesis
+- Sunny Day
+
+| Breloom @ Focus Sash
+Ability: Technician
+EVs: 1 HP
+Level: 50
+- Spore
+- Drain Punch
+- Mach Punch
+- Stone Edge
+
+| Tangrowth @ Salac Berry
+Ability: Regenerator
+EVs: 1 HP
+Level: 50
+- Power Whip
+- Focus Blast
+- Sludge Bomb
+- Earthquake
+
+| Leafeon @ Yache Berry
+Ability: Leaf Guard
+EVs: 1 HP
+Level: 50
+- Leaf Blade
+- X-scissor
+- Quick Attack
+- Swords Dance
+
+| Torterra @ Choice Band
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Wood Hammer
+- Earthquake
+- Outrage
+- Stone Edge
+
+| Mismagius @ Salac Berry
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Psychic
+- Calm Mind
+- Pain Split
+
+| Drifblim @ Flying Gem
+Ability: Unburden
+EVs: 1 HP
+Level: 50
+- Acrobatics
+- Will-o-wisp
+- Explosion
+- Sucker Punch
+
+| Spiritomb @ Sitrus Berry
+Ability: Pressure
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Psychic
+- Sucker Punch
+- Nasty Plot
+
+| Dusknoir @ Apicot Berry
+Ability: Pressure
+EVs: 1 HP
+Level: 50
+- Shadow Sneak
+- Curse
+- Pain Split
+- Will-o-wisp
+
+| Jellicent @ Ghost Gem
+Ability: Cursed Body
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Brine
+- Recover
+- Water Spout
+
+| Gengar @ Focus Sash
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Thunderbolt
+- Nightmare
+- Hypnosis
+
+| Lucario @ Focus Sash
+Ability: Inner Focus
+EVs: 1 HP
+Level: 50
+- Ice Punch
+- Close Combat
+- Extremespeed
+- Swords Dance
+
+| Infernape @ Fire Gem
+Ability: Iron Fist
+EVs: 1 HP
+Level: 50
+- Close Combat
+- Flare Blitz
+- Mach Punch
+- Bulk Up
+
+| Toxicroak @ Payapa Berry
+Ability: Poison Touch
+EVs: 1 HP
+Level: 50
+- Drain Punch
+- Sucker Punch
+- Substitute
+- Bulk Up
+
+| Gallade @ Coba Berry
+Ability: Steadfast
+EVs: 1 HP
+Level: 50
+- Close Combat
+- Psycho Cut
+- Leaf Blade
+- Bulk Up
+
+| Medicham @ Choice Scarf
+Ability: Pure Power
+EVs: 1 HP
+Level: 50
+- Hi Jump Kick
+- Zen Headbutt
+- Thunderpunch
+- Ice Punch
+
+| Machamp @ Scope Lens
+Ability: No Guard
+EVs: 1 HP
+Level: 50
+- Cross Chop
+- Stone Edge
+- Ice Punch
+- Bullet Punch
+
+| Floatzel @ Life Orb
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Aqua Jet
+- Ice Punch
+- Focus Blast
+- Bulk Up
+
+| Empoleon @ Petaya Berry
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Blizzard
+- Grass Knot
+- Featherdance
+
+| Ludicolo @ Leftovers
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Giga Drain
+- Focus Blast
+- Rain Dance
+
+| Gastrodon @ Rindo Berry
+Ability: Storm Drain
+EVs: 1 HP
+Level: 50
+- Surf
+- Earth Power
+- Blizzard
+- Counter
+
+| Poliwrath @ Salac Berry
+Ability: Water Absorb
+EVs: 1 HP
+Level: 50
+- Waterfall
+- Focus Punch
+- Ice Punch
+- Hypnosis
+
+| Gyarados @ Wacan Berry
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Aqua Tail
+- Earthquake
+- Outrage
+- Dragon Dance
+
+| Bastiodon @ Air Balloon
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Metal Burst
+- Fire Blast
+- Stealth Rock
+- Iron Defense
+
+| Excadrill @ Life Orb
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- X-scissor
+- Earthquake
+- Rock Slide
+- Submission
+
+| Bronzong @ Iron Ball
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Gyro Ball
+- Zen Headbutt
+- Earthquake
+- Trick Room
+
+| Magnezone @ Shuca Berry
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Explosion
+- Mirror Coat
+- Protect
+- Reflect
+
+| Aggron @ Choice Band
+Ability: Rock Head
+EVs: 1 HP
+Level: 50
+- Head Smash
+- Iron Head
+- Fire Punch
+- Dragon Rush
+
+| Forretress @ Light Clay
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Gyro Ball
+- Stealth Rock
+- Earthquake
+- Reflect
+
+| Froslass @ Petaya Berry
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Shadow Ball
+- Psychic
+- Hail
+
+| Abomasnow @ Occa Berry
+Ability: Snow Warning
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Wood Hammer
+- Earthquake
+- Ingrain
+
+| Weavile @ Chople Berry
+Ability: Pickpocket
+EVs: 1 HP
+Level: 50
+- Ice Punch
+- Night Slash
+- Brick Break
+- Torment
+
+| Glaceon @ Life Orb
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Shadow Ball
+- Signal Beam
+- Ice Shard
+
+| Mamoswine @ Salac Berry
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Icicle Crash
+- Bulldoze
+- Superpower
+- Rock Tomb
+
+| Glalie @ Rock Gem
+Ability: Ice Body
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Crunch
+- Rollout
+- Hail
+
+| Electivire @ Salac Berry
+Ability: Motor Drive
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Cross Chop
+- Ice Punch
+- Bulldoze
+
+| Luxray @ Liechi Berry
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Crunch
+- Superpower
+- Thunder Wave
+
+| Raichu @ Grass Gem
+Ability: Lightningrod
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Focus Blast
+- Grass Knot
+- Charge
+
+| Rotom-Fan @ King's Rock
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Discharge
+- Air Slash
+- Pain Split
+- Substitute
+
+| Jolteon @ Air Balloon
+Ability: Volt Absorb
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Shadow Ball
+- Charm
+- Wish
+
+| Electrode @ Electric Gem
+Ability: Aftermath
+EVs: 1 HP
+Level: 50
+- Thunder
+- Signal Beam
+- Taunt
+- Torment
+
+| Aerodactyl @ Choice Band
+Ability: Unnerve
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Earthquake
+- Ice Fang
+- Fire Blast
+
+| Exeggutor @ Life Orb
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Leaf Storm
+- Wood Hammer
+- Zen Headbutt
+- Leech Seed
+
+| Gyarados @ King's Rock
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Waterfall
+- Earthquake
+- Ice Fang
+- Outrage
+
+| Alakazam @ Focus Sash
+Ability: Magic Guard
+EVs: 1 HP
+Level: 50
+- Psychic
+- Focus Blast
+- Shadow Ball
+- Reflect
+
+| Arcanine @ Expert Belt
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Flare Blitz
+- Close Combat
+- Wild Charge
+- Extremespeed
+
+| Machamp @ White Herb
+Ability: No Guard
+EVs: 1 HP
+Level: 50
+- Superpower
+- Stone Edge
+- Fire Punch
+- Bullet Punch
+
+| Dragonite @ Focus Sash
+Ability: Multiscale
+EVs: 1 HP
+Level: 50
+- Extremespeed
+- Ice Punch
+- Fire Punch
+- Draco Meteor
+
+| Salamence @ Expert Belt
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Dragon Claw
+- Crunch
+- Earthquake
+- Stone Edge
+
+| Kingdra @ Scope Lens
+Ability: Sniper
+EVs: 1 HP
+Level: 50
+- Surf
+- Ice Beam
+- Dragon Pulse
+- Flash Cannon
+
+| Hydreigon @ White Herb
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Draco Meteor
+- Fire Blast
+- Earth Power
+- Dark Pulse
+
+| Haxorus @ Choice SCarf
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- Outrage
+- Superpower
+- Earthquake
+- Rock Slide
+
+| Flygon @ Power Herb
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Solarbeam
+- Draco Meteor
+- Earth Power
+- U-turn
+
+| Metagross @ Occa Berry
+Ability: Clear Body
+EVs: 1 HP
+Level: 50
+- Hammer Arm
+- Bullet Punch
+- Zen Headbutt
+- Earthquake
+
+| Aggron @ Air Balloon
+Ability: Rock Head
+EVs: 1 HP
+Level: 50
+- Head Smash
+- Metal Burst
+- Earthquake
+- Avalanche
+
+| Excadrill @ Focus Sash
+Ability: Sand Rush
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Rock Slide
+- X-scissor
+- Sandstorm
+
+| Archeops @ Sitrus Berry
+Ability: Defeatist
+EVs: 1 HP
+Level: 50
+- Quick Attack
+- Acrobatics
+- Head Smash
+- Earthquake
+
+| Cradily @ Expert Belt
+Ability: Storm Drain
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Seed Bomb
+- Earthquake
+- Sandstorm
+
+| Armaldo @ White Herb
+Ability: Battle Armor
+EVs: 1 HP
+Level: 50
+- X-scissor
+- Rock Blast
+- Earthquake
+- Superpower
+
+| Milotic @ Rocky Helmet
+Ability: Marvel Scale
+EVs: 1 HP
+Level: 50
+- Scald
+- Icy Wind
+- Rest
+- Sleep Talk
+
+| Sharpedo @ Focus Sash
+Ability: Speed Boost
+EVs: 1 HP
+Level: 50
+- Aqua Jet
+- Zen Headbutt
+- Hydro Pump
+- Crunch
+
+| Walrein @ Leftovers
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Yawn
+- Blizzard
+- Surf
+- Sheer Cold
+
+| Ludicolo @ Life Orb
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Giga Drain
+- Surf
+- Focus Blast
+- Rain Dance
+
+| Swampert @ Rindo Berry
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Ice Beam
+- Muddy Water
+- Earth Power
+- Focus Blast
+
+| Starmie @ Expert Belt
+Ability: Natural Cure
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Psychic
+- Surf
+- Signal Beam
+
+| Garchomp @ Focus Sash
+Ability: Rough Skin
+EVs: 1 HP
+Level: 50
+- Outrage
+- Earthquake
+- Stone Edge
+- Swords Dance
+
+| Spiritomb @ Rocky Helmet
+Ability: Pressure
+EVs: 1 HP
+Level: 50
+- Pain Split
+- Will-o-wisp
+- Protect
+- Sucker Punch
+
+| Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 1 HP
+Level: 50
+- Air Slash
+- Aura Sphere
+- Grass Knot
+- Shadow Ball
+
+| Lucario @ LIfe Orb
+Ability: Inner Focus
+EVs: 1 HP
+Level: 50
+- Close Combat
+- Stone Edge
+- Extremespeed
+- Dark Pulse
+
+| Roserade @ White Herb
+Ability: Poison Point
+EVs: 1 HP
+Level: 50
+- Leaf Storm
+- Shadow Ball
+- Sludge Bomb
+- Sleep Powder
+
+| Glaceon @ Choice Scarf
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Ice Beam
+- Signal Beam
+- Shadow Ball
+- Water Pulse
+
+| Volcarona @ Charti Berry
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Quiver Dance
+- Heat Wave
+- Bug Buzz
+- Psychic
+
+| Conkeldurr @ Life Orb
+Ability: Sheer Force
+EVs: 1 HP
+Level: 50
+- Hammer Arm
+- Mach Punch
+- Payback
+- Stone Edge
+
+| Reuniclus @ Leftovers
+Ability: Magic Guard
+EVs: 1 HP
+Level: 50
+- Light Screen
+- Reflect
+- Toxic
+- Psychic
+
+| Krookodile @ Expert Belt
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+
+| Chandelure @ Choice Scarf
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Flamethrower
+- Shadow Ball
+- Energy Ball
+- Psychic
+
+| Braviary @ Choice Band
+Ability: Sheer Force
+EVs: 1 HP
+Level: 50
+- Brave Bird
+- Superpower
+- Rock Slide
+- U-turn
+
+| Venusaur @ White Herb
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Leaf Storm
+- Sludge Bomb
+- Earthquake
+- Sleep Powder
+
+| Charizard @ Focus Sash
+Ability: Blaze
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Focus Blast
+- Air Slash
+- Dragon Pulse
+
+| Blastoise @ Choice Scarf
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Water Spout
+- Hydro Pump
+- Blizzard
+- Focus Blast
+
+| Pikachu @ Light Ball
+Ability: Lightningrod
+EVs: 1 HP
+Level: 50
+- Volt Tackle
+- Iron Tail
+- Brick Break
+- Fake Out
+
+| Snorlax @ Quick Claw
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Body Slam
+- Earthquake
+- Crunch
+- Seed Bomb
+
+| Lapras @ Sitrus Berry
+Ability: Shell Armor
+EVs: 1 HP
+Level: 50
+- Ice Beam
+- Hydro Pump
+- Ice Shard
+- Thunderbolt
+
+| Hydreigon @ Wise Glasses
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Focus Blast
+- Dragon Pulse
+- Surf
+
+| Salamence @ Life Orb
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Earthquake
+- Draco Meteor
+- Crunch
+
+| Archeops @ Flying Gem
+Ability: Defeatist
+EVs: 1 HP
+Level: 50
+- Acrobatics
+- Stone Edge
+- Dragon Claw
+- Endeavor
+
+| Aggron @ Muscle Band
+Ability: Rock Head
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Double-edge
+- Head Smash
+- Autotomize
+
+| Lapras @ Zoom Lens
+Ability: Water Absorb
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Blizzard
+- Thunder
+- Sing
+
+| Haxorus @ Focus Sash
+Ability: Mold Breaker
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Guillotine
+- Outrage
+- Dragon Dance
+
+| Throh @ Focus Band
+Ability: Guts
+EVs: 1 HP
+Level: 50
+- Superpower
+- Earthquake
+- Stone Edge
+- Payback
+
+| Sawk @ Muscle Band
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Close Combat
+- Retaliate
+- Stone Edge
+- Poison Jab
+
+| Machamp @ Expert Belt
+Ability: No Guard
+EVs: 1 HP
+Level: 50
+- Dynamicpunch
+- Stone Edge
+- Dual Chop
+- Thunderpunch
+
+| Lucario @ Wise Glasses
+Ability: Inner Focus
+EVs: 1 HP
+Level: 50
+- Aura Sphere
+- Dragon Pulse
+- Extremespeed
+- Shadow Ball
+
+| Mienshao @ Eject Button
+Ability: Regenerator
+EVs: 1 HP
+Level: 50
+- Hi Jump Kick
+- U-turn
+- Acrobatics
+- Fake Out
+
+| Conkeldurr @ Flame Orb
+Ability: Guts
+EVs: 1 HP
+Level: 50
+- Hammer Arm
+- Bulk Up
+- Stone Edge
+- Earthquake
+
+| Musharna @ Zoom Lens
+Ability: Synchronize
+EVs: 1 HP
+Level: 50
+- Charge Beam
+- Dream Eater
+- Hypnosis
+- Reflect
+
+| Alakazam @ Expert Belt
+Ability: Magic Guard
+EVs: 1 HP
+Level: 50
+- Psychic
+- Focus Blast
+- Shadow Ball
+- Charge Beam
+
+| Gallade @ Muscle Band
+Ability: Steadfast
+EVs: 1 HP
+Level: 50
+- Close Combat
+- Leaf Blade
+- Psycho Cut
+- Night Slash
+
+| Reuniclus @ Leftovers
+Ability: Magic Guard
+EVs: 1 HP
+Level: 50
+- Psychic
+- Thunder
+- Recover
+- Focus Blast
+
+| Gothitelle @ Wise Glasses
+Ability: Shadow Tag
+EVs: 1 HP
+Level: 50
+- Psychic
+- Shadow Ball
+- Flatter
+- Thunderbolt
+
+| Metagross @ Life Orb
+Ability: Clear Body
+EVs: 1 HP
+Level: 50
+- Zen Headbutt
+- Bullet Punch
+- Earthquake
+- Hammer Arm
+
+| Honchkrow @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Night Slash
+- Psychic
+- Aerial Ace
+- Haze
+
+| Scrafty @ Leftovers
+Ability: Moxie
+EVs: 1 HP
+Level: 50
+- Head Smash
+- Crunch
+- Hi Jump Kick
+- Poison Jab
+
+| Krookodile @ Muscle Band
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- Earthquake
+- Crunch
+- Outrage
+
+| Houndoom @ Wise Glasses
+Ability: Flash Fire
+EVs: 1 HP
+Level: 50
+- Thunder Fang
+- Fire Blast
+- Sludge Bomb
+- Crunch
+
+| Tyranitar @ Focus Band
+Ability: Sand Stream
+EVs: 1 HP
+Level: 50
+- Dark Pulse
+- Stone Edge
+- Fire Blast
+- Earthquake
+
+| Bisharp @ Quick Claw
+Ability: Defiant
+EVs: 1 HP
+Level: 50
+- Guillotine
+- X-scissor
+- Night Slash
+- Aerial Ace
+
+| Cofagrigus @ Leftovers
+Ability: Mummy
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Psychic
+- Will-o-wisp
+- Energy Ball
+
+| Gengar @ Expert Belt
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Focus Blast
+- Sludge Bomb
+- Dark Pulse
+
+| Froslass @ Wise Glasses
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Psychic
+- Blizzard
+- Ice Shard
+
+| Drifblim @ Flying Gem
+Ability: Unburden
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Psychic
+- Acrobatics
+- Thunder
+
+| Golurk @ Muscle Band
+Ability: Iron Fist
+EVs: 1 HP
+Level: 50
+- Shadow Punch
+- Earthquake
+- Hammer Arm
+- Stone Edge
+
+| Chandelure @ Choice Scarf
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Shadow Ball
+- Psychic
+- Fire Blast
+- Energy Ball
+
+| Magneton @ Eviolite
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Volt Switch
+- Flash Cannon
+- Tri Attack
+- Thunder Wave
+
+| Rotom-Wash @ Life Orb
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Discharge
+- Hydro Pump
+- Will-o-wisp
+- Substitute
+
+| Metagross @ Muscle Band
+Ability: Clear Body
+EVs: 1 HP
+Level: 50
+- Meteor Mash
+- Zen Headbutt
+- Rock Slide
+- Agility
+
+| Beheeyem @ Leftovers
+Ability: Analytic
+EVs: 1 HP
+Level: 50
+- Psychic
+- Energy Ball
+- Calm Mind
+- Recover
+
+| Magnezone @ Wise Glasses
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Thunderbolt
+- Flash Cannon
+- Hyper Beam
+- Thunder Wave
+
+| Klinklang @ Air Balloon
+Ability: Plus
+EVs: 1 HP
+Level: 50
+- Gear Grind
+- Wild Charge
+- Giga Impact
+- Shift Gear
+
+| Clefable @ Leftovers
+Ability: Unaware
+EVs: 1 HP
+Level: 50
+- Cosmic Power
+- Stored Power
+- Metronome
+- Sing
+
+| Wigglytuff @ Leftovers
+Ability: Cute Charm
+EVs: 1 HP
+Level: 50
+- Hyper Voice
+- Thunderbolt
+- Flamethrower
+- Ice Beam
+
+| Azumarill @ Leftovers
+Ability: Huge Power
+EVs: 1 HP
+Level: 50
+- Aqua Tail
+- Double-edge
+- Superpower
+- Bulldoze
+
+| Alomomola @ Leftovers
+Ability: Regenerator
+EVs: 1 HP
+Level: 50
+- Toxic
+- Aqua Jet
+- Protect
+- Wish
+
+| Lickilicky @ Leftovers
+Ability: Own Tempo
+EVs: 1 HP
+Level: 50
+- Power Whip
+- Earthquake
+- Fire Blast
+- Blizzard
+
+| Snorlax @ Leftovers
+Ability: Thick Fat
+EVs: 1 HP
+Level: 50
+- Superpower
+- Crunch
+- Body Slam
+- Yawn
+
+| Liepard @ Petaya Berry
+Ability: Limber
+EVs: 1 HP
+Level: 50
+- Sucker Punch
+- Night Slash
+- Fake Out
+- Grass Knot
+
+| Simipour @ Petaya Berry
+Ability: Gluttony
+EVs: 1 HP
+Level: 50
+- Surf
+- Payback
+- Acrobatics
+- Crunch
+
+| Simisear @ Petaya Berry
+Ability: Gluttony
+EVs: 1 HP
+Level: 50
+- Flamethrower
+- Payback
+- Acrobatics
+- Crunch
+
+| Simisage @ Petaya Berry
+Ability: Gluttony
+EVs: 1 HP
+Level: 50
+- Energy Ball
+- Payback
+- Acrobatics
+- Crunch
+
+| Swoobat @ Petaya Berry
+Ability: Unaware
+EVs: 1 HP
+Level: 50
+- Psychic
+- Endeavor
+- Air Slash
+- Psyshock
+
+| Zebstrika @ Petaya Berry
+Ability: Motor Drive
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Pursuit
+- Giga Impact
+- Flame Charge
+
+| Politoed @ Life Orb
+Ability: Drizzle
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Focus Blast
+- Psychic
+- Hypnosis
+
+| Lanturn @ Leftovers
+Ability: Volt Absorb
+EVs: 1 HP
+Level: 50
+- Thunder
+- Signal Beam
+- Hydro Pump
+- Stockpile
+
+| Tentacruel @ Damp Rock
+Ability: Clear Body
+EVs: 1 HP
+Level: 50
+- Rain Dance
+- Giga Drain
+- Scald
+- Barrier
+
+| Omastar @ Damp Rock
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Rain Dance
+- Hydro Pump
+- Ice Beam
+- Earth Power
+
+| Kabutops @ Leftovers
+Ability: Swift Swim
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Aqua Jet
+- X-scissor
+- Low Kick
+
+| Starmie @ Leftovers
+Ability: Natural Cure
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Thunder
+- Psychic
+- Ice Beam
+
+| Ninetales @ Life Orb
+Ability: Drought
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Solarbeam
+- Foul Play
+- Confuse Ray
+
+| Arcanine @ Leftovers
+Ability: Intimidate
+EVs: 1 HP
+Level: 50
+- Extremespeed
+- Overheat
+- Wild Charge
+- Outrage
+
+| Rapidash @ Leftovers
+Ability: Flash Fire
+EVs: 1 HP
+Level: 50
+- Megahorn
+- Drill Run
+- Flare Blitz
+- Solarbeam
+
+| Shiftry @ Heat Rock
+Ability: Chlorophyll
+EVs: 1 HP
+Level: 50
+- Dark Pulse
+- Solarbeam
+- Focus Blast
+- Sunny Day
+
+| Ninjask @ Heat Rock
+Ability: Speed Boost
+EVs: 1 HP
+Level: 50
+- Sunny Day
+- X-scissor
+- Solarbeam
+- Protect
+
+| Leafeon @ Leftovers
+Ability: Leaf Guard
+EVs: 1 HP
+Level: 50
+- Leaf Blade
+- X-scissor
+- Attract
+- Iron Tail
+
+| Hippowdon @ Life Orb
+Ability: Sand Stream
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Crunch
+- Superpower
+- Stealth Rock
+
+| Gastrodon @ Smooth Rock
+Ability: Storm Drain
+EVs: 1 HP
+Level: 50
+- Earth Power
+- Muddy Water
+- Ice Beam
+- Sandstorm
+
+| Cradily @ Smooth Rock
+Ability: Suction Cups
+EVs: 1 HP
+Level: 50
+- Sandstorm
+- Giga Drain
+- Confuse Ray
+- Stockpile
+
+| Armaldo @ Leftovers
+Ability: Battle Armor
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- X-scissor
+- Aqua Tail
+- Rock Polish
+
+| Scizor @ Leftovers
+Ability: Swarm
+EVs: 1 HP
+Level: 50
+- Bullet Punch
+- Double Hit
+- Bug Bite
+- Aerial Ace
+
+| Rhyperior @ Leftovers
+Ability: Solid Rock
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Stone Edge
+- Fire Punch
+- Ice Punch
+
+| Abomasnow @ Life Orb
+Ability: Snow Warning
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Wood Hammer
+- Earthquake
+- Grasswhistle
+
+| Vanilluxe @ Icy Rock
+Ability: Ice Body
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Flash Cannon
+- Signal Beam
+- Hail
+
+| Cloyster @ Leftovers
+Ability: Skill Link
+EVs: 1 HP
+Level: 50
+- Icicle Spear
+- Hydro Pump
+- Ice Shard
+- Shell Smash
+
+| Mamoswine @ Leftovers
+Ability: Oblivious
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Ice Shard
+- Blizzard
+- Stone Edge
+
+| Froslass @ Icy Rock
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Shadow Ball
+- Psychic
+- Hail
+
+| Glaceon @ Leftovers
+Ability: Snow Cloak
+EVs: 1 HP
+Level: 50
+- Blizzard
+- Shadow Ball
+- Signal Beam
+- Attract
+
+| Liepard @ Sitrus Berry
+Ability: Unburden
+EVs: 1 HP
+Level: 50
+- Fake Out
+- Night Slash
+- Shadow Claw
+- Aerial Ace
+
+| Unfezant @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Air Slash
+- Quick Attack
+- Facade
+- U-turn
+
+| Haxorus @ Dragon Gem
+Ability: Moldbreaker
+EVs: 1 HP
+Level: 50
+- Outrage
+- Rock Slide
+- X-scissor
+- Surf
+
+| Gigalith @ Leftovers
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Stealth Rock
+- Earthquake
+- Giga Impact
+
+| Simipour @ Mystic Water
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Surf
+- Brick Break
+- Payback
+- Rock Slide
+
+| Emboar @ Focus Sash
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Flare Blitz
+- Head Smash
+- Brick Break
+- Wild Charge
+
+| Liepard @ Sitrus Berry
+Ability: Unburden
+EVs: 1 HP
+Level: 50
+- Fake Out
+- Night Slash
+- Shadow Claw
+- Aerial Ace
+
+| Unfezant @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Air Slash
+- Quick Attack
+- Facade
+- U-turn
+
+| Haxorus @ Dragon Gem
+Ability: Moldbreaker
+EVs: 1 HP
+Level: 50
+- Outrage
+- Rock Slide
+- X-scissor
+- Surf
+
+| Gigalith @ Leftovers
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Stealth Rock
+- Earthquake
+- Giga Impact
+
+| Simisage @ Miracle Seed
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Energy Ball
+- Brick Break
+- Payback
+- Rock Slide
+
+| Samurott @ Focus Sash
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Aqua Jet
+- Blizzard
+- X-scissor
+
+| Liepard @ Sitrus Berry
+Ability: Unburden
+EVs: 1 HP
+Level: 50
+- Fake Out
+- Night Slash
+- Shadow Claw
+- Aerial Ace
+
+| Unfezant @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Air Slash
+- Quick Attack
+- Facade
+- U-turn
+
+| Haxorus @ Dragon Gem
+Ability: Moldbreaker
+EVs: 1 HP
+Level: 50
+- Outrage
+- Rock Slide
+- X-scissor
+- Surf
+
+| Gigalith @ Leftovers
+Ability: Sturdy
+EVs: 1 HP
+Level: 50
+- Stone Edge
+- Stealth Rock
+- Earthquake
+- Giga Impact
+
+| Simisear @ Charcoal
+Ability: Blaze
+EVs: 1 HP
+Level: 50
+- Flamethrower
+- Brick Break
+- Payback
+- Rock Slide
+
+| Serperior @ Focus Sash
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Leaf Storm
+- Coil
+- Dragon Tail
+- Leaf Blade
+
+| Latios @ White Herb
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Draco Meteor
+- Psychic
+- Icy Wind
+- Thunderbolt
+
+| Garchomp @ Life Orb
+Ability: Sand Veil
+EVs: 1 HP
+Level: 50
+- Outrage
+- Earthquake
+- Fire Blast
+- Stone Edge
+
+| Volcarona @ Focus Sash
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Bug Buzz
+- Psychic
+- Quiver Dance
+
+| Latias @ White Herb
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Draco Meteor
+- Psychic
+- Icy Wind
+- Thunderbolt
+
+| Dragonite @ Life Orb
+Ability: Inner Focus
+EVs: 1 HP
+Level: 50
+- Outrage
+- Focus Blast
+- Fire Blast
+- Dragon Dance
+
+| Volcarona @ Focus Sash
+Ability: Flame Body
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Bug Buzz
+- Psychic
+- Quiver Dance
+
+| Unfezant @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Giga Impact
+- Aerial Ace
+- U-turn
+- Swagger
+
+| Simipour @ Salac Berry
+Ability: Gluttony
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- Focus Blast
+- Acrobatics
+- Surf
+
+| Bouffalant @ Muscle Band
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Head Charge
+- Wild Charge
+- Megahorn
+- Earthquake
+
+| Flygon @ Dragon Gem
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Fire Blast
+- Draco Meteor
+- Stone Edge
+
+| Eelektross @ Leftovers
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Flamethrower
+- Dragon Claw
+- Crunch
+
+| Emboar @ Focus Sash
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Fire Blast
+- Head Smash
+- Hammer Arm
+- Scald
+
+| Unfezant @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Giga Impact
+- Aerial Ace
+- U-turn
+- Swagger
+
+| Simisage @ Salac Berry
+Ability: Gluttony
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- Focus Blast
+- Acrobatics
+- Energy Ball
+
+| Bouffalant @ Muscle Band
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Head Charge
+- Wild Charge
+- Megahorn
+- Earthquake
+
+| Flygon @ Dragon Gem
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Fire Blast
+- Draco Meteor
+- Stone Edge
+
+| Eelektross @ Leftovers
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Flamethrower
+- Dragon Claw
+- Crunch
+
+| Samurott @ Focus Sash
+Ability: Torrent
+EVs: 1 HP
+Level: 50
+- Hydro Pump
+- Megahorn
+- Ice Beam
+- Grass Knot
+
+| Unfezant @ Scope Lens
+Ability: Super Luck
+EVs: 1 HP
+Level: 50
+- Giga Impact
+- Aerial Ace
+- U-turn
+- Swagger
+
+| Simisear @ Salac Berry
+Ability: Gluttony
+EVs: 1 HP
+Level: 50
+- Rock Slide
+- Focus Blast
+- Acrobatics
+- Flamethrower
+
+| Bouffalant @ Muscle Band
+Ability: Reckless
+EVs: 1 HP
+Level: 50
+- Head Charge
+- Wild Charge
+- Megahorn
+- Earthquake
+
+| Flygon @ Dragon Gem
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Earthquake
+- Fire Blast
+- Draco Meteor
+- Stone Edge
+
+| Eelektross @ Leftovers
+Ability: Levitate
+EVs: 1 HP
+Level: 50
+- Wild Charge
+- Flamethrower
+- Dragon Claw
+- Crunch
+
+| Serperior @ Focus Sash
+Ability: Overgrow
+EVs: 1 HP
+Level: 50
+- Leaf Storm
+- Leaf Blade
+- Dragon Tail
+- Coil
+

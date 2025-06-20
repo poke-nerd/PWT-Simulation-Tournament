@@ -1,0 +1,438 @@
+Ability: Scrappy
+Ability: Download
+Ability: Skill Link
+Ability: Cloud Nine
+Ability: Forecast
+Ability: Reckless
+Ability: Swarm
+Ability: Poison Touch
+Ability: Aftermath
+Ability: Inner Focus
+Ability: Sniper
+Ability: Regenerator
+Ability: Swarm
+Ability: Pressure
+Ability: Sturdy
+Ability: Moxie
+Ability: Sticky Hold
+Ability: Swarm
+Ability: Motor Drive
+Ability: Static
+Ability: Intimidate
+Ability: Static
+Ability: Levitate
+Ability: Static
+Ability: Mold Breaker
+Ability: Levitate
+Ability: Intimidate
+Ability: Water Absorb
+Ability: Thick Fat
+Ability: Iron Fist
+Ability: Keen Eye
+Ability: Chlorophyll
+Ability: Aftermath
+Ability: Overcoat
+Ability: Defeatist
+Ability: Defiant
+Ability: Mold Breaker
+Ability: Rough Skin
+Ability: Levitate
+Ability: Levitate
+Ability: Natural Cure
+Ability: Intimidate
+Ability: Cursed Body
+Ability: Sturdy
+Ability: Natural Cure
+Ability: Unaware
+Ability: Skill Link
+Ability: Water Veil
+Ability: Blaze
+Ability: Solid Rock
+Ability: Flash Fire
+Ability: Sheer Force
+Ability: Intimidate
+Ability: Reckless
+Ability: Torrent
+Ability: Adaptability
+Ability: Torrent
+Ability: Huge Power
+Ability: Own Tempo
+Ability: Swift Swim
+Ability: Overgrow
+Ability: Iron Barbs
+Ability: Overgrow
+Ability: Chlorophyll
+Ability: Prankster
+Ability: Chlorophyll
+Ability: Analytic
+Ability: Cute Charm
+Ability: Defiant
+Ability: Chlorophyll
+Ability: Scrappy
+Ability: Own Tempo
+Ability: Levitate
+Ability: Snow Cloak
+Ability: Ice Body
+Ability: Pickpocket
+Ability: Thick Fat
+Ability: Ice Body
+Ability: Synchronize
+Ability: Torrent
+Ability: Reckless
+Ability: Contrary
+Ability: Intimidate
+Ability: Mold Breaker
+Ability: Sturdy
+Ability: Sturdy
+Ability: Battle Armor
+Ability: Sand Stream
+Ability: Unnerve
+Ability: Solid Rock
+Ability: Natural Cure
+Ability: Volt Absorb
+Ability: Cursed Body
+Ability: Shell Armor
+Ability: Unaware
+Ability: Torrent
+Ability: Static
+Ability: Aftermath
+Ability: Sturdy
+Ability: Motor Drive
+Ability: Volt Absorb
+Ability: Volt Absorb
+Ability: Chlorophyll
+Ability: Overgrow
+Ability: Storm Drain
+Ability: Chlorophyll
+Ability: Regenerator
+Ability: Snow Warning
+Ability: Tinted Lens
+Ability: Levitate
+Ability: Sheer Force
+Ability: Infiltrator
+Ability: Poison Point
+Ability: Clear Body
+Ability: Synchronize
+Ability: Clear Body
+Ability: Chlorophyll
+Ability: Regenerator
+Ability: Magic Bounce
+Ability: Magic Guard
+Ability: Intimidate
+Ability: Drought
+Ability: Solar Power
+Ability: Flame Body
+Ability: Flash Fire
+Ability: Levitate
+Ability: Solid Rock
+Ability: Sand Stream
+Ability: Sand Veil
+Ability: Moxie
+Ability: Sheer Force
+Ability: Sand Veil
+Ability: Keen Eye
+Ability: Infiltrator
+Ability: Unnerve
+Ability: Moxie
+Ability: Magic Bounce
+Ability: Guts
+Ability: Technician
+Ability: Sturdy
+Ability: Moxie
+Ability: Mold Breaker
+Ability: Battle Armor
+Ability: Speed Boost
+Ability: Scrappy
+Ability: Serene Grace
+Ability: Sheer Force
+Ability: Technician
+Ability: Guts
+Ability: Cute Charm
+Ability: Levitate
+Ability: Levitate
+Ability: Cursed Body
+Ability: Pressure
+Ability: Flame Body
+Ability: Cursed Body
+Ability: Water Absorb
+Ability: No Guard
+Ability: Technician
+Ability: Iron Fist
+Ability: Reckless
+Ability: Iron Fist
+Ability: Sturdy
+Ability: Sturdy
+Ability: Sturdy
+Ability: Sturdy
+Ability: Clear Body
+Ability: Inner Focus
+Ability: Thick Fat
+Ability: Oblivious
+Ability: Thick Fat
+Ability: Skill Link
+Ability: Shell Armor
+Ability: Pickpocket
+Ability: Multiscale
+Ability: Sniper
+Ability: Natural Cure
+Ability: Intimidate
+Ability: Rough Skin
+Ability: Rough Skin
+Ability: Sturdy
+Ability: Battle Armor
+Ability: Storm Drain
+Ability: Rock Head
+Ability: Sturdy
+Ability: Sturdy
+Ability: Thick Fat
+Ability: Moxie
+Ability: Effect Spore
+Ability: No Guard
+Ability: Regenerator
+Ability: Moxie
+Ability: Lightningrod
+Ability: Sturdy
+Ability: Aftermath
+Ability: Levitate
+Ability: Static
+Ability: Lightningrod
+Ability: Shell Armor
+Ability: Solid Rock
+Ability: Flame Body
+Ability: Speed Boost
+Ability: Flash Fire
+Ability: Flame Body
+Ability: Truant
+Ability: Technician
+Ability: Reckless
+Ability: Reckless
+Ability: Scrappy
+Ability: Chlorophyll
+Ability: Natural Cure
+Ability: Magic Guard
+Ability: Intimidate
+Ability: Sturdy
+Ability: Chlorophyll
+Ability: Super Luck
+Ability: Levitate
+Ability: Magic Bounce
+Ability: Levitate
+Ability: Magic Guard
+Ability: Steadfast
+Ability: Levitate
+Ability: Levitate
+Ability: Magic Bounce
+Ability: Levitate
+Ability: Shadow Tag
+Ability: Trace
+Ability: Levitate
+Ability: Swift Swim
+Ability: Thick Fat
+Ability: Adaptability
+Ability: Oblivious
+Ability: Swift Swim
+Ability: Drizzle
+Ability: Mold Breaker
+Ability: Sturdy
+Ability: Defeatist
+Ability: Sturdy
+Ability: Sturdy
+Ability: Rock Head
+Ability: Poison Point
+Ability: Chlorophyll
+Ability: Technician
+Ability: Regenerator
+Ability: Leaf Guard
+Ability: Overgrow
+Ability: Levitate
+Ability: Unburden
+Ability: Pressure
+Ability: Pressure
+Ability: Cursed Body
+Ability: Levitate
+Ability: Inner Focus
+Ability: Iron Fist
+Ability: Poison Touch
+Ability: Steadfast
+Ability: Pure Power
+Ability: No Guard
+Ability: Swift Swim
+Ability: Torrent
+Ability: Swift Swim
+Ability: Storm Drain
+Ability: Water Absorb
+Ability: Intimidate
+Ability: Sturdy
+Ability: Mold Breaker
+Ability: Levitate
+Ability: Sturdy
+Ability: Rock Head
+Ability: Sturdy
+Ability: Snow Cloak
+Ability: Snow Warning
+Ability: Pickpocket
+Ability: Snow Cloak
+Ability: Snow Cloak
+Ability: Ice Body
+Ability: Motor Drive
+Ability: Intimidate
+Ability: Lightningrod
+Ability: Levitate
+Ability: Volt Absorb
+Ability: Aftermath
+Ability: Unnerve
+Ability: Chlorophyll
+Ability: Intimidate
+Ability: Magic Guard
+Ability: Intimidate
+Ability: No Guard
+Ability: Multiscale
+Ability: Intimidate
+Ability: Sniper
+Ability: Levitate
+Ability: Mold Breaker
+Ability: Levitate
+Ability: Clear Body
+Ability: Rock Head
+Ability: Sand Rush
+Ability: Defeatist
+Ability: Storm Drain
+Ability: Battle Armor
+Ability: Marvel Scale
+Ability: Speed Boost
+Ability: Thick Fat
+Ability: Swift Swim
+Ability: Torrent
+Ability: Natural Cure
+Ability: Rough Skin
+Ability: Pressure
+Ability: Serene Grace
+Ability: Inner Focus
+Ability: Poison Point
+Ability: Snow Cloak
+Ability: Flame Body
+Ability: Sheer Force
+Ability: Magic Guard
+Ability: Moxie
+Ability: Flame Body
+Ability: Sheer Force
+Ability: Overgrow
+Ability: Blaze
+Ability: Torrent
+Ability: Lightningrod
+Ability: Thick Fat
+Ability: Shell Armor
+Ability: Levitate
+Ability: Intimidate
+Ability: Defeatist
+Ability: Rock Head
+Ability: Water Absorb
+Ability: Mold Breaker
+Ability: Guts
+Ability: Sturdy
+Ability: No Guard
+Ability: Inner Focus
+Ability: Regenerator
+Ability: Guts
+Ability: Synchronize
+Ability: Magic Guard
+Ability: Steadfast
+Ability: Magic Guard
+Ability: Shadow Tag
+Ability: Clear Body
+Ability: Super Luck
+Ability: Moxie
+Ability: Intimidate
+Ability: Flash Fire
+Ability: Sand Stream
+Ability: Defiant
+Ability: Mummy
+Ability: Levitate
+Ability: Snow Cloak
+Ability: Unburden
+Ability: Iron Fist
+Ability: Flame Body
+Ability: Sturdy
+Ability: Levitate
+Ability: Clear Body
+Ability: Analytic
+Ability: Sturdy
+Ability: Plus
+Ability: Unaware
+Ability: Cute Charm
+Ability: Huge Power
+Ability: Regenerator
+Ability: Own Tempo
+Ability: Thick Fat
+Ability: Limber
+Ability: Gluttony
+Ability: Gluttony
+Ability: Gluttony
+Ability: Unaware
+Ability: Lightning Rod
+Ability: Drizzle
+Ability: Volt Absorb
+Ability: Clear Body
+Ability: Swift Swim
+Ability: Swift Swim
+Ability: Natural Cure
+Ability: Drought
+Ability: Intimidate
+Ability: Flash Fire
+Ability: Chlorophyll
+Ability: Speed Boost
+Ability: Leaf Guard
+Ability: Sand Stream
+Ability: Storm Drain
+Ability: Suction Cups
+Ability: Battle Armor
+Ability: Swarm
+Ability: Solid Rock
+Ability: Snow Warning
+Ability: Ice Body
+Ability: Skill Link
+Ability: Oblivious
+Ability: Snow Cloak
+Ability: Snow Cloak
+Ability: Unburden
+Ability: Super Luck
+Ability: Moldbreaker
+Ability: Sturdy
+Ability: Torrent
+Ability: Reckless
+Ability: Unburden
+Ability: Super Luck
+Ability: Moldbreaker
+Ability: Sturdy
+Ability: Overgrow
+Ability: Torrent
+Ability: Unburden
+Ability: Super Luck
+Ability: Moldbreaker
+Ability: Sturdy
+Ability: Blaze
+Ability: Overgrow
+Ability: Levitate
+Ability: Sand Veil
+Ability: Flame Body
+Ability: Levitate
+Ability: Inner Focus
+Ability: Flame Body
+Ability: Super Luck 
+Ability: Gluttony
+Ability: Reckless
+Ability: Levitate
+Ability: Levitate 
+Ability: Reckless
+Ability: Super Luck
+Ability: Gluttony
+Ability: Reckless
+Ability: Levitate
+Ability: Levitate
+Ability: Torrent 
+Ability: Super Luck 
+Ability: Gluttony
+Ability: Reckless
+Ability: Levitate
+Ability: Levitate
+Ability: Overgrow

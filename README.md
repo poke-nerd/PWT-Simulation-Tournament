@@ -6,17 +6,17 @@ Welcome to the open-source AI tournament engine for simulating large-scale Poké
 
 ---
 
-## 📊 Core Features
-- ⚔️ Custom AI battle logic powered by Showdown
-- 🔁 Multithreaded battle simulation for large datasets
-- 📈 Ranking models: Elo + Bradley-Terry
-- 🎴 Animated trainer card generator
-- 📊 Heatmaps and statistical summaries (CSV + HTML)
-- 🧪 Battle rerun + error analysis tooling
+## Core Features
+-  Custom AI battle logic powered by Showdown
+-  Multithreaded battle simulation for large datasets
+-  Ranking models: Elo + Bradley-Terry
+-  Animated trainer card generator
+-  Heatmaps and statistical summaries (CSV + HTML)
+-  Battle rerun + error analysis tooling
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone and install
 ```bash
@@ -35,7 +35,7 @@ node build
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### Simulation Pipeline
 1. **Prepare trainer teams:** in `Data/Inputs/GymLeaderTeams.txt` + `GymLeaderPokemon.txt`
@@ -64,7 +64,7 @@ node build
 
 ---
 
-## 🧰 Key Utility Scripts
+## Key Utility Scripts
 All scripts below are located in the `Data/` directory unless noted otherwise:
 
 | Script/File                  | Description |
@@ -82,7 +82,7 @@ All scripts below are located in the `Data/` directory unless noted otherwise:
 
 ---
 
-## 🧬 Modified Showdown Behavior
+## Modified Showdown Behavior
 
 ### Core AI File:
 - `pokemon-showdown/sim/examples/Simulation-test-1.ts`
@@ -95,7 +95,7 @@ All scripts below are located in the `Data/` directory unless noted otherwise:
 
 ---
 
-## 📂 Repo Overview
+## Repo Overview
 ```
 PWT-Simulation-Tournament/
 ├── Data/                       # All tournament logic and data
@@ -114,20 +114,20 @@ PWT-Simulation-Tournament/
 
 ---
 
-## 📚 Credits
+## Credits
 - Forked from [CRZShadow's Simulator](https://github.com/cRz-Shadows/Pokemon_Trainer_Tournament_Simulator)
 - Built on top of [Pokémon Showdown](https://github.com/smogon/pokemon-showdown)
 - Tournament AI + analytics system by [poke-nerd](https://github.com/poke-nerd)
 
 ---
 
-## 🧵 Community
+## Community
 - YouTube: [@smithplayspokemon](https://www.youtube.com/@smithplayspokemon)
 - Discord: https://discord.gg/Wupx8tHRVS
 
 ---
 
-## 🔮 Future Plans
+## Future Plans
 - Export to HuggingFace or Kaggle
 - Animated replays w/ trainer cards and battle stats
 - Support for Gen 9 + advanced AI archetypes
